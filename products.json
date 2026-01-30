@@ -7,5 +7,14 @@
     "type": "sheep",
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1769777941277-1000110959.jpg",
     "created_at": "2026-01-30T12:59:01.979Z"
+  },
+  {
+    "id": "1769778105345-f0hkep",
+    "name": "狐狸耳兜帽",
+    "desc": "狐狸毛帽沿",
+    "price": "1500",
+    "type": "fox",
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1769778104703-IMG_4237.jpeg",
+    "created_at": "2026-01-30T13:01:45.345Z"
   }
 ]
