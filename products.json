@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "1769777287189-8fkvri",
+    "name": "測試",
+    "desc": "測試",
+    "price": "1250",
+    "type": "rabbit",
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1769777286376-1000110959.jpg",
+    "created_at": "2026-01-30T12:48:07.189Z"
+  }
+]
