@@ -1,2 +1,11 @@
 [
+  {
+    "id": "1769771914914-bhiqk",
+    "name": "小羊帽子",
+    "desc": "測試",
+    "price": "1250",
+    "type": "sheep",
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1769771914082-1000110959.jpg",
+    "created_at": "2026-01-30T11:18:34.914Z"
+  }
 ]
