@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1788280057697-14e28f3a",
+    "contact": {
+      "platform": "instagram",
+      "handle": "123",
+      "phone": "0909090909"
+    },
+    "items": {
+      "hat": {
+        "style": "貓耳帽",
+        "brim": "長毛",
+        "strap": "辮子款",
+        "strapEnd": "星星",
+        "colors": [
+          "深色系"
+        ],
+        "headSize": "1",
+        "depth": "1",
+        "quantity": "1 個"
+      }
+    },
+    "depositLast5": "44444",
+    "note": "",
+    "status": "new",
+    "created_at": "2026-09-01T16:27:37.697Z"
+  }
+]
