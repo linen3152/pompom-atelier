@@ -40,5 +40,19 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788616740856-abca851a.jpg",
     "imageFile": "1788616740856-abca851a.jpg",
     "updated_at": "2026-09-05T14:00:03.952Z"
+  },
+  {
+    "id": "1788616853591-b434974a",
+    "name": "貓耳帽-蜜糖",
+    "desc": "波浪+流蘇",
+    "category": "hat",
+    "price": 950,
+    "sizes": "",
+    "stock": 1,
+    "note": "2",
+    "newUntil": null,
+    "created_at": "2026-09-05T14:00:53.592Z",
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788616853596-66ca595f.jpg",
+    "imageFile": "1788616853596-66ca595f.jpg"
   }
 ]
