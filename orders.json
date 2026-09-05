@@ -24,5 +24,103 @@
     "note": "",
     "status": "new",
     "created_at": "2026-09-01T16:27:37.697Z"
+  },
+  {
+    "id": "1788616341115-8440499e",
+    "contact": {
+      "platform": "instagram",
+      "handle": "測試一",
+      "phone": "0939200519"
+    },
+    "items": {
+      "hat": [
+        {
+          "style": "貓耳帽",
+          "brim": "波浪",
+          "strap": "辮子款",
+          "strapEnd": "愛心",
+          "colors": [
+            "深色系",
+            "藍"
+          ],
+          "headSize": "1",
+          "depth": "1"
+        },
+        {
+          "style": "小兜帽",
+          "brim": "長毛",
+          "strap": "不要綁帶",
+          "colors": [
+            "綠",
+            "紫"
+          ],
+          "headSize": "3",
+          "depth": "3"
+        }
+      ],
+      "bag": [
+        {
+          "style": [
+            "軟呼呼手提包"
+          ],
+          "colors": [
+            "白"
+          ]
+        }
+      ],
+      "scarf": [
+        {
+          "style": [
+            "皮草圍巾"
+          ],
+          "colors": [
+            "淺色系"
+          ]
+        }
+      ],
+      "earmuff": [
+        {
+          "style": [
+            "硬殼式耳罩"
+          ],
+          "colors": [
+            "淺色系"
+          ]
+        }
+      ],
+      "kerchief": [
+        {
+          "mainColor": "灰",
+          "subColors": [
+            "淺色系",
+            "紅"
+          ]
+        }
+      ],
+      "hairpiece": [
+        {
+          "style": [
+            "髮帶"
+          ],
+          "colors": [
+            "淺色系"
+          ]
+        }
+      ],
+      "misc": [
+        {
+          "style": [
+            "卡套"
+          ],
+          "colors": [
+            "深色系"
+          ]
+        }
+      ]
+    },
+    "depositLast5": "21807",
+    "note": "1285327",
+    "status": "new",
+    "created_at": "2026-09-05T13:52:21.115Z"
   }
 ]
