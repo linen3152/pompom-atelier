@@ -1,18 +1,5 @@
 [
   {
-    "id": "1769777941979-96nbkg",
-    "name": "小羊帽子",
-    "desc": "平款",
-    "price": 1200,
-    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1769777941277-1000110959.jpg",
-    "created_at": "2026-01-30T12:59:01.979Z",
-    "category": "hat",
-    "stock": 1,
-    "sizes": "55/16",
-    "note": "23",
-    "updated_at": "2026-09-02T14:02:02.548Z"
-  },
-  {
     "id": "1788616740851-4ccd8149",
     "name": "貓耳帽-瑩白",
     "desc": "波浪+流蘇",
