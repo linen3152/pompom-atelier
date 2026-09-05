@@ -28,7 +28,7 @@
   },
   {
     "id": "1788616740851-4ccd8149",
-    "name": "貓耳帽 瑩白",
+    "name": "貓耳帽-瑩白",
     "desc": "波浪+流蘇",
     "category": "hat",
     "price": 950,
@@ -38,6 +38,7 @@
     "newUntil": "2026-09-12T13:59:00.851Z",
     "created_at": "2026-09-05T13:59:00.851Z",
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788616740856-abca851a.jpg",
-    "imageFile": "1788616740856-abca851a.jpg"
+    "imageFile": "1788616740856-abca851a.jpg",
+    "updated_at": "2026-09-05T14:00:03.952Z"
   }
 ]
