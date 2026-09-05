@@ -83,5 +83,19 @@
     "created_at": "2026-09-05T14:09:53.462Z",
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788617393467-a0a06b78.jpg",
     "imageFile": "1788617393467-a0a06b78.jpg"
+  },
+  {
+    "id": "1788617480986-b43ea4c9",
+    "name": "大兜帽-晴天",
+    "desc": "平款+流蘇",
+    "category": "hat",
+    "price": 1200,
+    "sizes": "",
+    "stock": 1,
+    "note": "1",
+    "newUntil": "2026-09-12T14:11:20.986Z",
+    "created_at": "2026-09-05T14:11:20.986Z",
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788617480991-c0edc309.jpg",
+    "imageFile": "1788617480991-c0edc309.jpg"
   }
 ]
