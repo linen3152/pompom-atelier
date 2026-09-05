@@ -41,5 +41,19 @@
     "created_at": "2026-09-05T14:04:05.969Z",
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788617045973-8d8ea122.jpg",
     "imageFile": "1788617045973-8d8ea122.jpg"
+  },
+  {
+    "id": "1788617196802-547aeccd",
+    "name": "粗圍巾-敦煌",
+    "desc": "皮草",
+    "category": "scarf",
+    "price": 900,
+    "sizes": "",
+    "stock": 1,
+    "note": "",
+    "newUntil": "2026-09-12T14:06:36.803Z",
+    "created_at": "2026-09-05T14:06:36.803Z",
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788617196821-9048ea6c.jpg",
+    "imageFile": "1788617196821-9048ea6c.jpg"
   }
 ]
