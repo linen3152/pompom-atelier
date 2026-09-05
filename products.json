@@ -55,5 +55,19 @@
     "created_at": "2026-09-05T14:06:36.803Z",
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788617196821-9048ea6c.jpg",
     "imageFile": "1788617196821-9048ea6c.jpg"
+  },
+  {
+    "id": "1788617295201-0312f142",
+    "name": "小角巾",
+    "desc": "備註許願顏色",
+    "category": "kerchief",
+    "price": 600,
+    "sizes": "",
+    "stock": 3,
+    "note": "",
+    "newUntil": "2026-09-12T14:08:15.201Z",
+    "created_at": "2026-09-05T14:08:15.201Z",
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788617295208-b2632ea4.jpg",
+    "imageFile": "1788617295208-b2632ea4.jpg"
   }
 ]
