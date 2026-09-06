@@ -1,33 +1,5 @@
 [
   {
-    "id": "1788620008383-0c4e9f86",
-    "customer": {
-      "name": "施芃卉",
-      "phone": "0939200519",
-      "email": "ballet0519g@gmail.com"
-    },
-    "store": {
-      "id": "951678",
-      "name": "里客"
-    },
-    "items": [
-      {
-        "id": "1788616740851-4ccd8149",
-        "name": "貓耳帽-瑩白",
-        "price": 950,
-        "qty": 1,
-        "note": "1"
-      }
-    ],
-    "subtotal": 950,
-    "shipping": 38,
-    "total": 988,
-    "payment": "cod",
-    "status": "new",
-    "note": "",
-    "created_at": "2026-09-05T14:53:28.384Z"
-  },
-  {
     "id": "1788708885801-d2c7c8af",
     "customer": {
       "name": "施芃卉",
