@@ -6,15 +6,16 @@
     "category": "hat",
     "price": 950,
     "sizes": "",
-    "stock": 0,
+    "stock": 1,
     "note": "1",
     "newUntil": "2026-09-12T13:59:00.851Z",
     "created_at": "2026-09-05T13:59:00.851Z",
-    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788616740856-abca851a.jpg",
-    "imageFile": "1788616740856-abca851a.jpg",
-    "updated_at": "2026-09-06T07:30:58.555Z",
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788679932981-e73e9052.jpg",
+    "imageFile": "1788679932981-e73e9052.jpg",
+    "updated_at": "2026-09-06T07:32:15.220Z",
     "subcategory": "cat",
-    "image2": null
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788679934124-e28c3c35.jpg",
+    "imageFile2": "1788679934124-e28c3c35.jpg"
   },
   {
     "id": "1788616853591-b434974a",
