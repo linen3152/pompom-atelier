@@ -28,8 +28,12 @@
     "note": "2",
     "newUntil": null,
     "created_at": "2026-09-05T14:00:53.592Z",
-    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788616853596-66ca595f.jpg",
-    "imageFile": "1788616853596-66ca595f.jpg"
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788680103141-1ee5182a.jpg",
+    "imageFile": "1788680103141-1ee5182a.jpg",
+    "subcategory": "cat",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788680104321-9163d164.jpg",
+    "imageFile2": "1788680104321-9163d164.jpg",
+    "updated_at": "2026-09-06T07:35:05.463Z"
   },
   {
     "id": "1788617045969-9c902b1a",
