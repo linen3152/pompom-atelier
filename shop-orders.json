@@ -26,5 +26,47 @@
     "status": "new",
     "note": "",
     "created_at": "2026-09-05T14:53:28.384Z"
+  },
+  {
+    "id": "1788708885801-d2c7c8af",
+    "customer": {
+      "name": "施芃卉",
+      "phone": "0939200519",
+      "email": "ballet0519g@gmail.com"
+    },
+    "store": {
+      "id": "155647",
+      "name": "千甲"
+    },
+    "items": [
+      {
+        "id": "1788616740851-4ccd8149",
+        "name": "貓耳帽-瑩白",
+        "price": 950,
+        "salePrice": null,
+        "unitPrice": 950,
+        "qty": 1,
+        "note": "1"
+      },
+      {
+        "id": "1788708583645-ae7e46de",
+        "name": "測試一",
+        "price": 900,
+        "salePrice": 855,
+        "unitPrice": 855,
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "originalSubtotal": 1850,
+    "discount": 45,
+    "discountLabel": "商品特價",
+    "subtotal": 1805,
+    "shipping": 0,
+    "total": 1805,
+    "payment": "cod",
+    "status": "new",
+    "note": "1111",
+    "created_at": "2026-09-06T15:34:45.801Z"
   }
 ]
