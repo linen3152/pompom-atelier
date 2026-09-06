@@ -3,5 +3,12 @@
   "senderPhone": "0939200519",
   "senderEmail": "pompom202620@gmail.com",
   "returnStoreName": "里客門市",
-  "returnStoreId": "951678"
+  "returnStoreId": "951678",
+  "discountTiers": [
+    {
+      "minSubtotal": 3000,
+      "kind": "percent",
+      "value": 88
+    }
+  ]
 }
