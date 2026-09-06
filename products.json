@@ -118,5 +118,23 @@
     "created_at": "2026-09-05T15:37:11.303Z",
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788622631326-87184602.jpg",
     "imageFile": "1788622631326-87184602.jpg"
+  },
+  {
+    "id": "1788708583645-ae7e46de",
+    "name": "測試一",
+    "desc": "",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 900,
+    "sizes": "",
+    "stock": 1,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-09-06T15:29:43.646Z",
+    "salePrice": 855,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788708583648-dbccd69e.jpg",
+    "imageFile": "1788708583648-dbccd69e.jpg",
+    "image2": null,
+    "imageFile2": null
   }
 ]
