@@ -325,5 +325,23 @@
     "imageFile": "1788771872069-f29ad7d3.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771873402-dd013da5.jpg",
     "imageFile2": "1788771873402-dd013da5.jpg"
+  },
+  {
+    "id": "1788771936092-b4deb3c6",
+    "name": "月牙包",
+    "desc": "粉",
+    "category": "bag",
+    "subcategory": "",
+    "price": 1700,
+    "sizes": "",
+    "stock": 1,
+    "note": "月牙 粉",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:05:36.092Z",
+    "salePrice": 1530,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771936110-43abbd9a.jpg",
+    "imageFile": "1788771936110-43abbd9a.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771937485-a67b6485.jpg",
+    "imageFile2": "1788771937485-a67b6485.jpg"
   }
 ]
