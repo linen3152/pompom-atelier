@@ -451,5 +451,23 @@
     "imageFile": "1788772460237-7b361771.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772461272-9c92044d.jpg",
     "imageFile2": "1788772461272-9c92044d.jpg"
+  },
+  {
+    "id": "1788772650416-5ed06524",
+    "name": "花絮包 - 艷陽",
+    "desc": "",
+    "category": "bag",
+    "subcategory": "",
+    "price": 1400,
+    "sizes": "",
+    "stock": 1,
+    "note": "祖母 橘",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:17:30.416Z",
+    "salePrice": 1260,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772650438-44e887dd.jpg",
+    "imageFile": "1788772650438-44e887dd.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772651558-eb0446d7.jpg",
+    "imageFile2": "1788772651558-eb0446d7.jpg"
   }
 ]
