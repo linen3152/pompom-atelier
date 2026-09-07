@@ -703,5 +703,23 @@
     "imageFile": "1788774660256-c8073212.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774661273-68f195c4.jpg",
     "imageFile2": "1788774661273-68f195c4.jpg"
+  },
+  {
+    "id": "1788774731738-6ebfa62e",
+    "name": "飲飲袋",
+    "desc": "隨機顏色",
+    "category": "misc",
+    "subcategory": "",
+    "price": 100,
+    "sizes": "",
+    "stock": 20,
+    "note": "飲料提袋",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:52:11.738Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774731753-105fb07a.jpg",
+    "imageFile": "1788774731753-105fb07a.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774733003-08bab751.jpg",
+    "imageFile2": "1788774733003-08bab751.jpg"
   }
 ]
