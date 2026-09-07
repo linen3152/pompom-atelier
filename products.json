@@ -253,5 +253,23 @@
     "imageFile": "1788771553092-0062c897.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771554222-55407006.jpg",
     "imageFile2": "1788771554222-55407006.jpg"
+  },
+  {
+    "id": "1788771641875-3fc868ab",
+    "name": "月牙包",
+    "desc": "白",
+    "category": "bag",
+    "subcategory": "",
+    "price": 1700,
+    "sizes": "",
+    "stock": 1,
+    "note": "月牙 白",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:00:41.876Z",
+    "salePrice": 1530,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771641906-50fd8996.jpg",
+    "imageFile": "1788771641906-50fd8996.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771643384-21b1f2ec.jpg",
+    "imageFile2": "1788771643384-21b1f2ec.jpg"
   }
 ]
