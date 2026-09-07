@@ -34,5 +34,23 @@
     "imageFile": "1788769558068-9c2c3185.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788769559112-63e7ef7c.jpg",
     "imageFile2": "1788769559112-63e7ef7c.jpg"
+  },
+  {
+    "id": "1788769646431-cf7b90c5",
+    "name": "晴日",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "頭圍56cm/帽深18cm",
+    "stock": 1,
+    "note": "貓耳 7",
+    "newUntil": "2026-09-14T08:27:26.431Z",
+    "created_at": "2026-09-07T08:27:26.431Z",
+    "salePrice": 950,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788769646445-4cf6a0fc.jpg",
+    "imageFile": "1788769646445-4cf6a0fc.jpg",
+    "image2": null,
+    "imageFile2": null
   }
 ]
