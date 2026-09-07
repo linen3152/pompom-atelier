@@ -181,5 +181,23 @@
     "imageFile": "1788770856955-25061770.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770858070-bedf76b8.jpg",
     "imageFile2": "1788770858070-bedf76b8.jpg"
+  },
+  {
+    "id": "1788771192469-7e2f776a",
+    "name": "麥穗包",
+    "desc": "紫",
+    "category": "bag",
+    "subcategory": "",
+    "price": 890,
+    "sizes": "",
+    "stock": 1,
+    "note": "麥穗 紫",
+    "newUntil": null,
+    "created_at": "2026-09-07T08:53:12.469Z",
+    "salePrice": 801,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771192489-83e31e13.jpg",
+    "imageFile": "1788771192489-83e31e13.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771193944-8a466fb0.jpg",
+    "imageFile2": "1788771193944-8a466fb0.jpg"
   }
 ]
