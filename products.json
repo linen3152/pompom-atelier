@@ -523,5 +523,23 @@
     "imageFile": "1788773082305-92c65350.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788773083914-1c2ce698.jpg",
     "imageFile2": "1788773083914-1c2ce698.jpg"
+  },
+  {
+    "id": "1788773583980-933b6be0",
+    "name": "髮夾",
+    "desc": "隨機顏色 2 入",
+    "category": "hairpiece",
+    "subcategory": "",
+    "price": 90,
+    "sizes": "",
+    "stock": 99,
+    "note": "髮夾2入",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:33:03.980Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788773583997-54e27d65.jpg",
+    "imageFile": "1788773583997-54e27d65.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788773585198-88cc3d81.jpg",
+    "imageFile2": "1788773585198-88cc3d81.jpg"
   }
 ]
