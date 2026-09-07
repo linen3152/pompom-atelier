@@ -595,5 +595,23 @@
     "imageFile": "1788774157532-e8a366a7.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774158990-d38308ad.jpg",
     "imageFile2": "1788774158990-d38308ad.jpg"
+  },
+  {
+    "id": "1788774256419-e9775d59",
+    "name": "抓夾 - 大",
+    "desc": "隨機顏色",
+    "category": "hairpiece",
+    "subcategory": "",
+    "price": 120,
+    "sizes": "長13cm",
+    "stock": 20,
+    "note": "抓夾 大",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:44:16.419Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774256433-dd0ebd1f.jpg",
+    "imageFile": "1788774256433-dd0ebd1f.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774257376-c4025014.jpg",
+    "imageFile2": "1788774257376-c4025014.jpg"
   }
 ]
