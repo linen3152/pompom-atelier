@@ -144,5 +144,23 @@
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770453494-9ae3ae06.jpg",
     "imageFile2": "1788770453494-9ae3ae06.jpg",
     "updated_at": "2026-09-07T08:40:54.921Z"
+  },
+  {
+    "id": "1788770542471-bd778351",
+    "name": "迷霧",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "頭圍56cm/帽深18cm",
+    "stock": 1,
+    "note": "貓耳 31",
+    "newUntil": "2026-09-14T08:42:22.471Z",
+    "created_at": "2026-09-07T08:42:22.471Z",
+    "salePrice": 950,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770542479-b3df5f11.jpg",
+    "imageFile": "1788770542479-b3df5f11.jpg",
+    "image2": null,
+    "imageFile2": null
   }
 ]
