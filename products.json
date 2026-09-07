@@ -505,5 +505,23 @@
     "imageFile": "1788772825336-a025a5d1.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772826974-cf1dfb71.jpg",
     "imageFile2": "1788772826974-cf1dfb71.jpg"
+  },
+  {
+    "id": "1788773082281-72a67cbc",
+    "name": "花絮包 - 暮粉",
+    "desc": "",
+    "category": "bag",
+    "subcategory": "",
+    "price": 1400,
+    "sizes": "",
+    "stock": 1,
+    "note": "祖母 粉棕",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:24:42.281Z",
+    "salePrice": 1260,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788773082305-92c65350.jpg",
+    "imageFile": "1788773082305-92c65350.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788773083914-1c2ce698.jpg",
+    "imageFile2": "1788773083914-1c2ce698.jpg"
   }
 ]
