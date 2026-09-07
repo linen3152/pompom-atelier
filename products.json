@@ -487,5 +487,23 @@
     "imageFile": "1788772746480-83d8b5c6.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772747812-7ef9708a.jpg",
     "imageFile2": "1788772747812-7ef9708a.jpg"
+  },
+  {
+    "id": "1788772825301-d4f8f356",
+    "name": "花絮包 - 摩卡",
+    "desc": "",
+    "category": "bag",
+    "subcategory": "",
+    "price": 1400,
+    "sizes": "",
+    "stock": 1,
+    "note": "祖母 米",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:20:25.301Z",
+    "salePrice": 1260,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772825336-a025a5d1.jpg",
+    "imageFile": "1788772825336-a025a5d1.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772826974-cf1dfb71.jpg",
+    "imageFile2": "1788772826974-cf1dfb71.jpg"
   }
 ]
