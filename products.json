@@ -721,5 +721,23 @@
     "imageFile": "1788774731753-105fb07a.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774733003-08bab751.jpg",
     "imageFile2": "1788774733003-08bab751.jpg"
+  },
+  {
+    "id": "1788774885472-5840a9fd",
+    "name": "臘腸圍巾",
+    "desc": "隨機顏色",
+    "category": "scarf",
+    "subcategory": "",
+    "price": 600,
+    "sizes": "",
+    "stock": 20,
+    "note": "臘腸圍巾",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:54:45.472Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774885514-15e1f1ed.jpg",
+    "imageFile": "1788774885514-15e1f1ed.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774886596-484e82f7.jpg",
+    "imageFile2": "1788774886596-484e82f7.jpg"
   }
 ]
