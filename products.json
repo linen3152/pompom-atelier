@@ -235,5 +235,23 @@
     "imageFile": "1788771429814-24c18400.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771431158-541e3e72.jpg",
     "imageFile2": "1788771431158-541e3e72.jpg"
+  },
+  {
+    "id": "1788771553070-ea598774",
+    "name": "雲朵包",
+    "desc": "粉",
+    "category": "bag",
+    "subcategory": "",
+    "price": 600,
+    "sizes": "",
+    "stock": 1,
+    "note": "雲朵 粉",
+    "newUntil": null,
+    "created_at": "2026-09-07T08:59:13.070Z",
+    "salePrice": 540,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771553092-0062c897.jpg",
+    "imageFile": "1788771553092-0062c897.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771554222-55407006.jpg",
+    "imageFile2": "1788771554222-55407006.jpg"
   }
 ]
