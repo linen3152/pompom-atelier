@@ -631,5 +631,23 @@
     "imageFile": "1788774322141-d3f89657.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774324536-c7126ed2.jpg",
     "imageFile2": "1788774324536-c7126ed2.jpg"
+  },
+  {
+    "id": "1788774395256-4521d525",
+    "name": "髮夾 - 蝴蝶結款",
+    "desc": "隨機顏色",
+    "category": "hairpiece",
+    "subcategory": "",
+    "price": 90,
+    "sizes": "",
+    "stock": 99,
+    "note": "蝴蝶結髮夾",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:46:35.256Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774395273-8636b116.jpg",
+    "imageFile": "1788774395273-8636b116.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774396318-2176aabb.jpg",
+    "imageFile2": "1788774396318-2176aabb.jpg"
   }
 ]
