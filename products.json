@@ -739,5 +739,23 @@
     "imageFile": "1788774885514-15e1f1ed.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774886596-484e82f7.jpg",
     "imageFile2": "1788774886596-484e82f7.jpg"
+  },
+  {
+    "id": "1788774996712-619e4c0a",
+    "name": "小迷你",
+    "desc": "耳機包 - 隨機顏色",
+    "category": "bag",
+    "subcategory": "",
+    "price": 200,
+    "sizes": "",
+    "stock": 20,
+    "note": "耳機包",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:56:36.712Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774996747-7c63abde.jpg",
+    "imageFile": "1788774996747-7c63abde.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774997980-7871bb1d.jpg",
+    "imageFile2": "1788774997980-7871bb1d.jpg"
   }
 ]
