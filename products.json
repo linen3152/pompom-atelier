@@ -469,5 +469,23 @@
     "imageFile": "1788772650438-44e887dd.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772651558-eb0446d7.jpg",
     "imageFile2": "1788772651558-eb0446d7.jpg"
+  },
+  {
+    "id": "1788772746456-f49a5094",
+    "name": "花絮包 - 藍調",
+    "desc": "",
+    "category": "bag",
+    "subcategory": "",
+    "price": 1400,
+    "sizes": "",
+    "stock": 1,
+    "note": "祖母 藍",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:19:06.456Z",
+    "salePrice": 1260,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772746480-83d8b5c6.jpg",
+    "imageFile": "1788772746480-83d8b5c6.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772747812-7ef9708a.jpg",
+    "imageFile2": "1788772747812-7ef9708a.jpg"
   }
 ]
