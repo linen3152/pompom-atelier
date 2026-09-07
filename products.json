@@ -541,5 +541,23 @@
     "imageFile": "1788773583997-54e27d65.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788773585198-88cc3d81.jpg",
     "imageFile2": "1788773585198-88cc3d81.jpg"
+  },
+  {
+    "id": "1788773886795-cda3961c",
+    "name": "髮圈 - 大",
+    "desc": "隨機顏色",
+    "category": "hairpiece",
+    "subcategory": "",
+    "price": 100,
+    "sizes": "內直徑4cm / 整體直徑13cm",
+    "stock": 99,
+    "note": "髮圈 大",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:38:06.795Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788773886800-ccca2034.jpg",
+    "imageFile": "1788773886800-ccca2034.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788773887958-391c8dbd.jpg",
+    "imageFile2": "1788773887958-391c8dbd.jpg"
   }
 ]
