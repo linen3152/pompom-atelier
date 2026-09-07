@@ -649,5 +649,23 @@
     "imageFile": "1788774395273-8636b116.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774396318-2176aabb.jpg",
     "imageFile2": "1788774396318-2176aabb.jpg"
+  },
+  {
+    "id": "1788774472636-4eea4037",
+    "name": "杯墊",
+    "desc": "隨機顏色",
+    "category": "misc",
+    "subcategory": "",
+    "price": 60,
+    "sizes": "",
+    "stock": 99,
+    "note": "杯墊",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:47:52.636Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774472678-8c1e4fb0.jpg",
+    "imageFile": "1788774472678-8c1e4fb0.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774473979-de312124.jpg",
+    "imageFile2": "1788774473979-de312124.jpg"
   }
 ]
