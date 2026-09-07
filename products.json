@@ -89,5 +89,23 @@
     "imageFile": "1788770013409-7da0ae50.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770014375-d34cee60.jpg",
     "imageFile2": "1788770014375-d34cee60.jpg"
+  },
+  {
+    "id": "1788770156393-e4cfbcb2",
+    "name": "沐花",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "頭圍56cm/帽深18cm",
+    "stock": 1,
+    "note": "貓耳 16",
+    "newUntil": "2026-09-14T08:35:56.393Z",
+    "created_at": "2026-09-07T08:35:56.393Z",
+    "salePrice": 950,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770156409-1786c59e.jpg",
+    "imageFile": "1788770156409-1786c59e.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770157497-6b2eb34a.jpg",
+    "imageFile2": "1788770157497-6b2eb34a.jpg"
   }
 ]
