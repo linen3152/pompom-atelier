@@ -163,5 +163,23 @@
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770583388-6df5e509.jpg",
     "imageFile2": "1788770583388-6df5e509.jpg",
     "updated_at": "2026-09-07T08:43:04.718Z"
+  },
+  {
+    "id": "1788770856935-ad46d129",
+    "name": "霧嶼",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1100,
+    "sizes": "頭圍53cm/帽深17cm",
+    "stock": 1,
+    "note": "貓耳 44",
+    "newUntil": "2026-09-14T08:47:36.935Z",
+    "created_at": "2026-09-07T08:47:36.935Z",
+    "salePrice": 1045,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770856955-25061770.jpg",
+    "imageFile": "1788770856955-25061770.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770858070-bedf76b8.jpg",
+    "imageFile2": "1788770858070-bedf76b8.jpg"
   }
 ]
