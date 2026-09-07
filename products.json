@@ -577,5 +577,23 @@
     "imageFile": "1788773957660-3677105d.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788773958731-320c72bc.jpg",
     "imageFile2": "1788773958731-320c72bc.jpg"
+  },
+  {
+    "id": "1788774157513-6524a651",
+    "name": "髮帶",
+    "desc": "隨機顏色",
+    "category": "hairpiece",
+    "subcategory": "",
+    "price": 90,
+    "sizes": "",
+    "stock": 99,
+    "note": "髮帶",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:42:37.513Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774157532-e8a366a7.jpg",
+    "imageFile": "1788774157532-e8a366a7.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774158990-d38308ad.jpg",
+    "imageFile2": "1788774158990-d38308ad.jpg"
   }
 ]
