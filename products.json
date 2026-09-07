@@ -343,5 +343,23 @@
     "imageFile": "1788771936110-43abbd9a.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771937485-a67b6485.jpg",
     "imageFile2": "1788771937485-a67b6485.jpg"
+  },
+  {
+    "id": "1788772014031-b82a2e63",
+    "name": "月牙包",
+    "desc": "桃粉漸變",
+    "category": "bag",
+    "subcategory": "",
+    "price": 1700,
+    "sizes": "",
+    "stock": 1,
+    "note": "月牙 桃",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:06:54.031Z",
+    "salePrice": 1530,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772014053-80166cf8.jpg",
+    "imageFile": "1788772014053-80166cf8.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772015248-d01101e6.jpg",
+    "imageFile2": "1788772015248-d01101e6.jpg"
   }
 ]
