@@ -685,5 +685,23 @@
     "imageFile": "1788774581892-ff13295c.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774583044-7a8dad9b.jpg",
     "imageFile2": "1788774583044-7a8dad9b.jpg"
+  },
+  {
+    "id": "1788774660253-5549005c",
+    "name": "小貓碗",
+    "desc": "隨機顏色",
+    "category": "misc",
+    "subcategory": "",
+    "price": 120,
+    "sizes": "",
+    "stock": 20,
+    "note": "貓碗",
+    "newUntil": null,
+    "created_at": "2026-09-07T09:51:00.253Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774660256-c8073212.jpg",
+    "imageFile": "1788774660256-c8073212.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774661273-68f195c4.jpg",
+    "imageFile2": "1788774661273-68f195c4.jpg"
   }
 ]
