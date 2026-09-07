@@ -107,5 +107,23 @@
     "imageFile": "1788770156409-1786c59e.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770157497-6b2eb34a.jpg",
     "imageFile2": "1788770157497-6b2eb34a.jpg"
+  },
+  {
+    "id": "1788770277288-4cbac089",
+    "name": "曲奇",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1100,
+    "sizes": "頭圍55cm/帽深17cm",
+    "stock": 1,
+    "note": "貓耳 20",
+    "newUntil": "2026-09-14T08:37:57.289Z",
+    "created_at": "2026-09-07T08:37:57.289Z",
+    "salePrice": 1045,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770277308-409e6e38.jpg",
+    "imageFile": "1788770277308-409e6e38.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770278427-dc404490.jpg",
+    "imageFile2": "1788770278427-dc404490.jpg"
   }
 ]
