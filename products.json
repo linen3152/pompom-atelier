@@ -664,7 +664,7 @@
     "category": "misc",
     "subcategory": "",
     "price": 60,
-    "sizes": "",
+    "sizes": "直徑9cm",
     "stock": 99,
     "note": "杯墊",
     "newUntil": null,
@@ -673,7 +673,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774472678-8c1e4fb0.jpg",
     "imageFile": "1788774472678-8c1e4fb0.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774473979-de312124.jpg",
-    "imageFile2": "1788774473979-de312124.jpg"
+    "imageFile2": "1788774473979-de312124.jpg",
+    "updated_at": "2026-09-09T05:02:06.125Z"
   },
   {
     "id": "1788774581871-49941c4a",
