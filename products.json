@@ -702,7 +702,7 @@
     "category": "misc",
     "subcategory": "",
     "price": 120,
-    "sizes": "",
+    "sizes": "直徑11cm",
     "stock": 20,
     "note": "貓碗",
     "newUntil": null,
@@ -711,7 +711,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774660256-c8073212.jpg",
     "imageFile": "1788774660256-c8073212.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774661273-68f195c4.jpg",
-    "imageFile2": "1788774661273-68f195c4.jpg"
+    "imageFile2": "1788774661273-68f195c4.jpg",
+    "updated_at": "2026-09-09T05:02:50.592Z"
   },
   {
     "id": "1788774731738-6ebfa62e",
