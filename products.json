@@ -590,7 +590,7 @@
     "category": "hairpiece",
     "subcategory": "",
     "price": 90,
-    "sizes": "",
+    "sizes": "中間28cm/綁帶35cm",
     "stock": 99,
     "note": "髮帶",
     "newUntil": null,
@@ -599,7 +599,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774157532-e8a366a7.jpg",
     "imageFile": "1788774157532-e8a366a7.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774158990-d38308ad.jpg",
-    "imageFile2": "1788774158990-d38308ad.jpg"
+    "imageFile2": "1788774158990-d38308ad.jpg",
+    "updated_at": "2026-09-09T05:01:06.753Z"
   },
   {
     "id": "1788774256419-e9775d59",
