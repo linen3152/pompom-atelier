@@ -645,7 +645,7 @@
     "category": "hairpiece",
     "subcategory": "",
     "price": 90,
-    "sizes": "",
+    "sizes": "長30cm",
     "stock": 99,
     "note": "蝴蝶結髮夾",
     "newUntil": null,
@@ -654,7 +654,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774395273-8636b116.jpg",
     "imageFile": "1788774395273-8636b116.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774396318-2176aabb.jpg",
-    "imageFile2": "1788774396318-2176aabb.jpg"
+    "imageFile2": "1788774396318-2176aabb.jpg",
+    "updated_at": "2026-09-09T05:01:30.381Z"
   },
   {
     "id": "1788774472636-4eea4037",
