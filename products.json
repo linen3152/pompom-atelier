@@ -441,7 +441,7 @@
     "category": "kerchief",
     "subcategory": "",
     "price": 600,
-    "sizes": "",
+    "sizes": "中間50cm/綁帶55cm",
     "stock": 1,
     "note": "小角巾 綠",
     "newUntil": null,
@@ -450,7 +450,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772460237-7b361771.jpg",
     "imageFile": "1788772460237-7b361771.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772461272-9c92044d.jpg",
-    "imageFile2": "1788772461272-9c92044d.jpg"
+    "imageFile2": "1788772461272-9c92044d.jpg",
+    "updated_at": "2026-09-09T04:59:02.176Z"
   },
   {
     "id": "1788772650416-5ed06524",
