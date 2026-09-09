@@ -683,7 +683,7 @@
     "category": "misc",
     "subcategory": "",
     "price": 150,
-    "sizes": "",
+    "sizes": "B8",
     "stock": 10,
     "note": "卡套",
     "newUntil": null,
@@ -692,7 +692,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774581892-ff13295c.jpg",
     "imageFile": "1788774581892-ff13295c.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788774583044-7a8dad9b.jpg",
-    "imageFile2": "1788774583044-7a8dad9b.jpg"
+    "imageFile2": "1788774583044-7a8dad9b.jpg",
+    "updated_at": "2026-09-09T05:02:29.253Z"
   },
   {
     "id": "1788774660253-5549005c",
