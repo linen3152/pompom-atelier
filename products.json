@@ -535,7 +535,7 @@
     "category": "hairpiece",
     "subcategory": "",
     "price": 90,
-    "sizes": "",
+    "sizes": "3*4cm",
     "stock": 99,
     "note": "髮夾2入",
     "newUntil": null,
@@ -544,7 +544,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788773583997-54e27d65.jpg",
     "imageFile": "1788773583997-54e27d65.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788773585198-88cc3d81.jpg",
-    "imageFile2": "1788773585198-88cc3d81.jpg"
+    "imageFile2": "1788773585198-88cc3d81.jpg",
+    "updated_at": "2026-09-09T05:00:29.482Z"
   },
   {
     "id": "1788773886795-cda3961c",
