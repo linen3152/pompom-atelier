@@ -64,15 +64,16 @@
     "subcategory": "cat",
     "price": 1000,
     "sizes": "頭圍56cm/帽深17cm",
-    "stock": 1,
+    "stock": 0,
     "note": "貓耳 8",
-    "newUntil": "2026-09-14T08:32:02.805Z",
+    "newUntil": null,
     "created_at": "2026-09-07T08:32:02.805Z",
     "salePrice": 950,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788769922812-6098d7f3.jpg",
     "imageFile": "1788769922812-6098d7f3.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788769923914-fb2d6759.jpg",
-    "imageFile2": "1788769923914-fb2d6759.jpg"
+    "imageFile2": "1788769923914-fb2d6759.jpg",
+    "updated_at": "2026-09-10T17:34:58.036Z"
   },
   {
     "id": "1788770013386-8eac30d0",
