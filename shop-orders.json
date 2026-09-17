@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "1789639508441-66dd1acf",
+    "customer": {
+      "name": "黃雅宣",
+      "phone": "0983798075",
+      "email": "bella8926@gmail.com"
+    },
+    "store": {
+      "id": "259437",
+      "name": "仁頂"
+    },
+    "items": [
+      {
+        "id": "1788769922805-3af4629b",
+        "name": "糖果紙",
+        "price": 1000,
+        "salePrice": 950,
+        "unitPrice": 950,
+        "qty": 1,
+        "note": "貓耳 8"
+      },
+      {
+        "id": "1788773583980-933b6be0",
+        "name": "髮夾",
+        "price": 90,
+        "salePrice": null,
+        "unitPrice": 90,
+        "qty": 1,
+        "note": "髮夾2入"
+      }
+    ],
+    "originalSubtotal": 1090,
+    "discount": 50,
+    "discountLabel": "商品特價",
+    "subtotal": 1040,
+    "shipping": 38,
+    "total": 1078,
+    "payment": "cod",
+    "status": "new",
+    "note": "",
+    "created_at": "2026-09-17T10:05:08.442Z"
+  }
+]
