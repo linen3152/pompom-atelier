@@ -756,5 +756,23 @@
     "imageFile": "1790133180888-77b5b726.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790133182127-1a36a9df.jpg",
     "imageFile2": "1790133182127-1a36a9df.jpg"
+  },
+  {
+    "id": "1790133354828-89ba6423",
+    "name": "森森",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "尺寸：頭圍56cm/帽深18cm",
+    "stock": 0,
+    "note": "17",
+    "newUntil": null,
+    "created_at": "2026-09-23T03:15:54.828Z",
+    "salePrice": 950,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790133354847-956d9908.jpg",
+    "imageFile": "1790133354847-956d9908.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790133355869-7ea50d68.jpg",
+    "imageFile2": "1790133355869-7ea50d68.jpg"
   }
 ]
