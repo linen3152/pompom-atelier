@@ -774,5 +774,23 @@
     "imageFile": "1790133354847-956d9908.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790133355869-7ea50d68.jpg",
     "imageFile2": "1790133355869-7ea50d68.jpg"
+  },
+  {
+    "id": "1790133528372-cf612cbd",
+    "name": "花瓣",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1100,
+    "sizes": "尺寸：頭圍53cm/帽深19cm",
+    "stock": 0,
+    "note": "22",
+    "newUntil": null,
+    "created_at": "2026-09-23T03:18:48.372Z",
+    "salePrice": 1045,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790133528386-c0d9c77a.jpg",
+    "imageFile": "1790133528386-c0d9c77a.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790133529611-711449cb.jpg",
+    "imageFile2": "1790133529611-711449cb.jpg"
   }
 ]
