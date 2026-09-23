@@ -864,5 +864,23 @@
     "imageFile": "1790134178206-2ae4a2c7.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790134179201-83a50fed.jpg",
     "imageFile2": "1790134179201-83a50fed.jpg"
+  },
+  {
+    "id": "1790134280924-aa93866f",
+    "name": "藍月",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "bighood",
+    "price": 1400,
+    "sizes": "",
+    "stock": 0,
+    "note": "大兜帽 3",
+    "newUntil": null,
+    "created_at": "2026-09-23T03:31:20.924Z",
+    "salePrice": 1330,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790134280942-efe194f2.jpg",
+    "imageFile": "1790134280942-efe194f2.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790134281979-3da13810.jpg",
+    "imageFile2": "1790134281979-3da13810.jpg"
   }
 ]
