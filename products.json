@@ -900,5 +900,23 @@
     "imageFile": "1790134404865-1b56d40a.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790134405884-9c64b708.jpg",
     "imageFile2": "1790134405884-9c64b708.jpg"
+  },
+  {
+    "id": "1790134492924-bdcf5ec0",
+    "name": "黑曜",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "bighood",
+    "price": 1400,
+    "sizes": "",
+    "stock": 0,
+    "note": "大兜帽 5",
+    "newUntil": null,
+    "created_at": "2026-09-23T03:34:52.924Z",
+    "salePrice": 1330,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790134492944-79d1a2db.jpg",
+    "imageFile": "1790134492944-79d1a2db.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790134493962-d1b8fe9e.jpg",
+    "imageFile2": "1790134493962-d1b8fe9e.jpg"
   }
 ]
