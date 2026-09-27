@@ -37,9 +37,9 @@
     "shipping": 38,
     "total": 1078,
     "payment": "cod",
-    "status": "shipped",
+    "status": "done",
     "note": "",
     "created_at": "2026-09-17T10:05:08.442Z",
-    "updated_at": "2026-09-22T15:09:40.759Z"
+    "updated_at": "2026-09-27T03:55:23.292Z"
   }
 ]
