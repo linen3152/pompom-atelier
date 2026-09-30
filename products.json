@@ -964,5 +964,23 @@
     "imageFile": "1790743500098-3acd5217.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743501377-cf5ba873.jpg",
     "imageFile2": "1790743501377-cf5ba873.jpg"
+  },
+  {
+    "id": "1790743606976-285c1e79",
+    "name": "栗子",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1100,
+    "sizes": "頭圍55cm/帽深18cm",
+    "stock": 0,
+    "note": "38",
+    "newUntil": null,
+    "created_at": "2026-09-30T04:46:46.976Z",
+    "salePrice": 1045,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743606994-6338528a.jpg",
+    "imageFile": "1790743606994-6338528a.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743608225-1346ce38.jpg",
+    "imageFile2": "1790743608225-1346ce38.jpg"
   }
 ]
