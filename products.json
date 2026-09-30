@@ -1055,5 +1055,23 @@
     "imageFile": "1790744200680-b51a2322.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790744201833-b7cf6195.jpg",
     "imageFile2": "1790744201833-b7cf6195.jpg"
+  },
+  {
+    "id": "1790744335619-9be2ee7f",
+    "name": "花叢",
+    "desc": "平款+辮子",
+    "category": "hat",
+    "subcategory": "smallhood",
+    "price": 900,
+    "sizes": "",
+    "stock": 0,
+    "note": "小兜帽 35",
+    "newUntil": null,
+    "created_at": "2026-09-30T04:58:55.619Z",
+    "salePrice": 855,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790744335624-4615759c.jpg",
+    "imageFile": "1790744335624-4615759c.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790744336959-c8c04ff3.jpg",
+    "imageFile2": "1790744336959-c8c04ff3.jpg"
   }
 ]
