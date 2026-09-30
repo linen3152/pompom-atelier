@@ -1073,5 +1073,23 @@
     "imageFile": "1790744335624-4615759c.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790744336959-c8c04ff3.jpg",
     "imageFile2": "1790744336959-c8c04ff3.jpg"
+  },
+  {
+    "id": "1790744407419-63941d94",
+    "name": "深海",
+    "desc": "平款+流蘇",
+    "category": "hat",
+    "subcategory": "smallhood",
+    "price": 900,
+    "sizes": "",
+    "stock": 0,
+    "note": "小兜帽 36",
+    "newUntil": null,
+    "created_at": "2026-09-30T05:00:07.419Z",
+    "salePrice": 855,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790744407441-23559609.jpg",
+    "imageFile": "1790744407441-23559609.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790744408762-e65cbc2d.jpg",
+    "imageFile2": "1790744408762-e65cbc2d.jpg"
   }
 ]
