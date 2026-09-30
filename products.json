@@ -928,5 +928,23 @@
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790134493962-d1b8fe9e.jpg",
     "imageFile2": "1790134493962-d1b8fe9e.jpg",
     "updated_at": "2026-09-24T09:58:49.028Z"
+  },
+  {
+    "id": "1790743040213-735d1068",
+    "name": "簡約",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "頭圍57cm/帽深17cm",
+    "stock": 0,
+    "note": "32",
+    "newUntil": null,
+    "created_at": "2026-09-30T04:37:20.214Z",
+    "salePrice": 950,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743040223-7b76a7c7.jpg",
+    "imageFile": "1790743040223-7b76a7c7.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743041616-adaa6123.jpg",
+    "imageFile2": "1790743041616-adaa6123.jpg"
   }
 ]
