@@ -946,5 +946,23 @@
     "imageFile": "1790743040223-7b76a7c7.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743041616-adaa6123.jpg",
     "imageFile2": "1790743041616-adaa6123.jpg"
+  },
+  {
+    "id": "1790743500090-b8e33716",
+    "name": "秋霧",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "頭圍54cm/帽深17cm",
+    "stock": 0,
+    "note": "33",
+    "newUntil": null,
+    "created_at": "2026-09-30T04:45:00.090Z",
+    "salePrice": 950,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743500098-3acd5217.jpg",
+    "imageFile": "1790743500098-3acd5217.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743501377-cf5ba873.jpg",
+    "imageFile2": "1790743501377-cf5ba873.jpg"
   }
 ]
