@@ -1000,5 +1000,23 @@
     "imageFile": "1790743709394-621dc964.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743710811-7a9bf1bd.jpg",
     "imageFile2": "1790743710811-7a9bf1bd.jpg"
+  },
+  {
+    "id": "1790743800794-39d276f1",
+    "name": "野玫",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1100,
+    "sizes": "頭圍56cm/帽深17cm",
+    "stock": 0,
+    "note": "82",
+    "newUntil": null,
+    "created_at": "2026-09-30T04:50:00.794Z",
+    "salePrice": 1045,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743800831-5305bd22.jpg",
+    "imageFile": "1790743800831-5305bd22.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743801893-96c99b53.jpg",
+    "imageFile2": "1790743801893-96c99b53.jpg"
   }
 ]
