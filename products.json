@@ -765,7 +765,7 @@
     "category": "hat",
     "subcategory": "cat",
     "price": 1000,
-    "sizes": "尺寸：頭圍56cm/帽深18cm",
+    "sizes": "頭圍56cm/帽深18cm",
     "stock": 1,
     "note": "17",
     "newUntil": "2026-10-01T09:57:18.467Z",
@@ -775,7 +775,7 @@
     "imageFile": "1790133354847-956d9908.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790133355869-7ea50d68.jpg",
     "imageFile2": "1790133355869-7ea50d68.jpg",
-    "updated_at": "2026-09-24T09:57:18.665Z"
+    "updated_at": "2026-09-30T04:38:48.965Z"
   },
   {
     "id": "1790133528372-cf612cbd",
