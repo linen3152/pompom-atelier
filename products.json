@@ -1108,14 +1108,15 @@
     "subcategory": "smallhood",
     "price": 900,
     "sizes": "",
-    "stock": 0,
+    "stock": 1,
     "note": "小兜帽 37",
-    "newUntil": null,
+    "newUntil": "2026-10-08T10:03:34.025Z",
     "created_at": "2026-09-30T05:02:02.940Z",
     "salePrice": 855,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790744522958-e0aa4cb6.jpg",
     "imageFile": "1790744522958-e0aa4cb6.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790744524017-4c77e878.jpg",
-    "imageFile2": "1790744524017-4c77e878.jpg"
+    "imageFile2": "1790744524017-4c77e878.jpg",
+    "updated_at": "2026-10-01T10:03:34.213Z"
   }
 ]
