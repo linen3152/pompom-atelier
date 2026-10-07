@@ -1215,7 +1215,7 @@
   {
     "id": "1791351141477-ca33e51e",
     "name": "小角巾",
-    "desc": "",
+    "desc": "米",
     "category": "kerchief",
     "subcategory": "",
     "price": 600,
@@ -1228,7 +1228,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791351141496-c0a95282.jpg",
     "imageFile": "1791351141496-c0a95282.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791351142597-b5fe4c52.jpg",
-    "imageFile2": "1791351142597-b5fe4c52.jpg"
+    "imageFile2": "1791351142597-b5fe4c52.jpg",
+    "updated_at": "2026-10-07T05:33:32.211Z"
   },
   {
     "id": "1791351184437-892a8724",
