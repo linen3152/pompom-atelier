@@ -1124,18 +1124,19 @@
     "name": "女巫帽-南瓜",
     "desc": "波浪款+辮子",
     "category": "hat",
-    "subcategory": "cat",
-    "price": 1250,
+    "subcategory": "special",
+    "price": 1300,
     "sizes": "",
     "stock": 0,
     "note": "女巫帽-橘",
     "newUntil": null,
     "created_at": "2026-10-07T05:21:29.475Z",
-    "salePrice": 1188,
+    "salePrice": 1235,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791350489496-d749bee1.jpg",
     "imageFile": "1791350489496-d749bee1.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791350490627-4f2b840b.jpg",
-    "imageFile2": "1791350490627-4f2b840b.jpg"
+    "imageFile2": "1791350490627-4f2b840b.jpg",
+    "updated_at": "2026-10-07T05:25:40.238Z"
   },
   {
     "id": "1791350649997-3cfcc714",
