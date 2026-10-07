@@ -1193,5 +1193,23 @@
     "imageFile": "1791350939253-fd25003d.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791350940234-ffaa2656.jpg",
     "imageFile2": "1791350940234-ffaa2656.jpg"
+  },
+  {
+    "id": "1791351034978-a729a13b",
+    "name": "鏤空帽 - 薰花",
+    "desc": "微波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "special",
+    "price": 850,
+    "sizes": "",
+    "stock": 0,
+    "note": "鏤空帽-紫",
+    "newUntil": null,
+    "created_at": "2026-10-07T05:30:34.979Z",
+    "salePrice": 808,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791351034982-6165db88.jpg",
+    "imageFile": "1791351034982-6165db88.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791351036113-6d790872.jpg",
+    "imageFile2": "1791351036113-6d790872.jpg"
   }
 ]
