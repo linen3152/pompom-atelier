@@ -1136,5 +1136,23 @@
     "imageFile": "1791350489496-d749bee1.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791350490627-4f2b840b.jpg",
     "imageFile2": "1791350490627-4f2b840b.jpg"
+  },
+  {
+    "id": "1791350649997-3cfcc714",
+    "name": "女巫帽 - 糖果",
+    "desc": "",
+    "category": "hat",
+    "subcategory": "special",
+    "price": 1300,
+    "sizes": "",
+    "stock": 0,
+    "note": "女巫帽 藍",
+    "newUntil": null,
+    "created_at": "2026-10-07T05:24:09.997Z",
+    "salePrice": 1235,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791350650014-6d4a3cb1.jpg",
+    "imageFile": "1791350650014-6d4a3cb1.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791350651279-02db11af.jpg",
+    "imageFile2": "1791350651279-02db11af.jpg"
   }
 ]
