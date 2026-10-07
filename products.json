@@ -1303,5 +1303,23 @@
     "imageFile": "1791351476220-9c19537e.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791351477398-3193cc63.jpg",
     "imageFile2": "1791351477398-3193cc63.jpg"
+  },
+  {
+    "id": "1791351538060-7001e6c2",
+    "name": "小角巾",
+    "desc": "白",
+    "category": "kerchief",
+    "subcategory": "",
+    "price": 600,
+    "sizes": "中間50cm/綁帶55cm",
+    "stock": 0,
+    "note": "小角巾 43",
+    "newUntil": null,
+    "created_at": "2026-10-07T05:38:58.060Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791351538078-75ab6e9c.jpg",
+    "imageFile": "1791351538078-75ab6e9c.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791351539183-a63e9c42.jpg",
+    "imageFile2": "1791351539183-a63e9c42.jpg"
   }
 ]
