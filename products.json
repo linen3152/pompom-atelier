@@ -1355,15 +1355,16 @@
     "subcategory": "",
     "price": 600,
     "sizes": "中間50cm/綁帶55cm",
-    "stock": 0,
+    "stock": 1,
     "note": "小角巾 45",
-    "newUntil": null,
+    "newUntil": "2026-10-15T09:53:47.357Z",
     "created_at": "2026-10-07T05:40:45.801Z",
     "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791351645818-40e4d4f2.jpg",
     "imageFile": "1791351645818-40e4d4f2.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791351646925-677db90c.jpg",
-    "imageFile2": "1791351646925-677db90c.jpg"
+    "imageFile2": "1791351646925-677db90c.jpg",
+    "updated_at": "2026-10-08T09:53:47.532Z"
   },
   {
     "id": "1791352044216-e5b301ac",
