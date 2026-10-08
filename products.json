@@ -1184,15 +1184,16 @@
     "subcategory": "special",
     "price": 850,
     "sizes": "",
-    "stock": 0,
+    "stock": 1,
     "note": "鏤空帽-綠",
-    "newUntil": null,
+    "newUntil": "2026-10-15T09:51:21.520Z",
     "created_at": "2026-10-07T05:28:59.203Z",
     "salePrice": 808,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791350939253-fd25003d.jpg",
     "imageFile": "1791350939253-fd25003d.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791350940234-ffaa2656.jpg",
-    "imageFile2": "1791350940234-ffaa2656.jpg"
+    "imageFile2": "1791350940234-ffaa2656.jpg",
+    "updated_at": "2026-10-08T09:51:21.704Z"
   },
   {
     "id": "1791351034978-a729a13b",
