@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "1791560291152-a2332dc3",
+    "contact": {
+      "platform": "line",
+      "handle": "昀芯 Yvonne",
+      "phone": ""
+    },
+    "items": {
+      "hat": [
+        {
+          "style": "貓耳帽",
+          "brim": "平款",
+          "strap": "不要綁帶",
+          "tone": "淺色系",
+          "color": "黃",
+          "headSize": "55公分",
+          "depth": "10公分（不用蓋住耳朵）"
+        }
+      ]
+    },
+    "depositLast5": "67821",
+    "note": "布丁配色🍮",
+    "status": "new",
+    "created_at": "2026-10-09T15:38:11.153Z"
+  }
+]
