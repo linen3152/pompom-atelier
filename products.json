@@ -1412,7 +1412,7 @@
     "subcategory": "",
     "price": 650,
     "sizes": "耳罩直徑15cm/連接段30cm/綁帶55cm",
-    "stock": 1,
+    "stock": 0,
     "note": "軟耳 48",
     "newUntil": "2026-10-15T09:54:30.356Z",
     "created_at": "2026-10-07T05:50:29.951Z",
@@ -1421,7 +1421,7 @@
     "imageFile": "1791352229954-8fd5be8f.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791352230902-fbd6b0f2.jpg",
     "imageFile2": "1791352230902-fbd6b0f2.jpg",
-    "updated_at": "2026-10-08T09:54:30.580Z"
+    "updated_at": "2026-10-10T09:31:03.950Z"
   },
   {
     "id": "1791352360154-663075c6",
