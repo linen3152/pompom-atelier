@@ -854,25 +854,6 @@
     "updated_at": "2026-10-01T10:02:26.511Z"
   },
   {
-    "id": "1790744092077-ffbd75a2",
-    "name": "春森",
-    "desc": "平款+流蘇",
-    "category": "hat",
-    "subcategory": "smallhood",
-    "price": 900,
-    "sizes": "",
-    "stock": 0,
-    "note": "小兜帽 33",
-    "newUntil": "2026-10-08T10:02:51.080Z",
-    "created_at": "2026-09-30T04:54:52.077Z",
-    "salePrice": 855,
-    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790744237600-9749bd08.jpg",
-    "imageFile": "1790744237600-9749bd08.jpg",
-    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790744238690-d7fe75bc.jpg",
-    "imageFile2": "1790744238690-d7fe75bc.jpg",
-    "updated_at": "2026-10-10T06:09:38.956Z"
-  },
-  {
     "id": "1790744335619-9be2ee7f",
     "name": "花叢",
     "desc": "平款+辮子",
