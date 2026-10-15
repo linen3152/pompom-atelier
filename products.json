@@ -1051,15 +1051,16 @@
     "subcategory": "cat",
     "price": 1000,
     "sizes": "頭圍55cm/帽深18cm",
-    "stock": 0,
+    "stock": 1,
     "note": "14",
-    "newUntil": null,
+    "newUntil": "2026-10-22T09:52:40.860Z",
     "created_at": "2026-10-14T04:52:42.777Z",
     "salePrice": 950,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791953562796-32422f02.jpg",
     "imageFile": "1791953562796-32422f02.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791953564227-55c2b7a6.jpg",
-    "imageFile2": "1791953564227-55c2b7a6.jpg"
+    "imageFile2": "1791953564227-55c2b7a6.jpg",
+    "updated_at": "2026-10-15T09:52:41.128Z"
   },
   {
     "id": "1791953718754-22e35651",
