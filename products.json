@@ -1575,21 +1575,22 @@
   },
   {
     "id": "1792555570179-1b5b3862",
-    "name": "雲朵包 - 紫",
-    "desc": "",
+    "name": "雲朵包",
+    "desc": "紫",
     "category": "bag",
     "subcategory": "",
     "price": 600,
     "sizes": "",
     "stock": 0,
-    "note": "雲朵包 紫",
+    "note": "雲朵 紫",
     "newUntil": null,
     "created_at": "2026-10-21T04:06:10.179Z",
     "salePrice": 540,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792555570184-9bb1b484.jpg",
     "imageFile": "1792555570184-9bb1b484.jpg",
     "image2": null,
-    "imageFile2": null
+    "imageFile2": null,
+    "updated_at": "2026-10-21T04:07:59.491Z"
   },
   {
     "id": "1792555619786-de70d4ff",
