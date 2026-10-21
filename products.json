@@ -1193,5 +1193,23 @@
     "imageFile": "1792552240315-15cf48e0.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792552241937-426149c6.jpg",
     "imageFile2": "1792552241937-426149c6.jpg"
+  },
+  {
+    "id": "1792552368237-f4fb9012",
+    "name": "檸檬",
+    "desc": "平款+流蘇",
+    "category": "hat",
+    "subcategory": "smallhood",
+    "price": 900,
+    "sizes": "",
+    "stock": 0,
+    "note": "小兜帽 79",
+    "newUntil": null,
+    "created_at": "2026-10-21T03:12:48.237Z",
+    "salePrice": 855,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792552368242-eee6c792.jpg",
+    "imageFile": "1792552368242-eee6c792.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792552369795-bc9be618.jpg",
+    "imageFile2": "1792552369795-bc9be618.jpg"
   }
 ]
