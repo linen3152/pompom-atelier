@@ -1589,5 +1589,23 @@
     "imageFile": "1792555570184-9bb1b484.jpg",
     "image2": null,
     "imageFile2": null
+  },
+  {
+    "id": "1792555619786-de70d4ff",
+    "name": "雲朵包 - 藍紫漸變",
+    "desc": "",
+    "category": "bag",
+    "subcategory": "",
+    "price": 600,
+    "sizes": "",
+    "stock": 0,
+    "note": "雲朵包 藍漸變",
+    "newUntil": null,
+    "created_at": "2026-10-21T04:06:59.786Z",
+    "salePrice": 540,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792555619799-26bbb089.jpg",
+    "imageFile": "1792555619799-26bbb089.jpg",
+    "image2": null,
+    "imageFile2": null
   }
 ]
