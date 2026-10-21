@@ -1499,5 +1499,23 @@
     "imageFile": "1792553843198-8fc4eea1.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792553844656-0ef6672a.jpg",
     "imageFile2": "1792553844656-0ef6672a.jpg"
+  },
+  {
+    "id": "1792553927714-4e162bf7",
+    "name": "暖繫 - 黑白",
+    "desc": "綁帶式耳罩 - 軟款",
+    "category": "earmuff",
+    "subcategory": "",
+    "price": 650,
+    "sizes": "耳罩直徑15cm/連接段30cm/綁帶55cm",
+    "stock": 0,
+    "note": "軟耳 75",
+    "newUntil": null,
+    "created_at": "2026-10-21T03:38:47.714Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792553927735-13d55256.jpg",
+    "imageFile": "1792553927735-13d55256.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792553929128-15c94f5e.jpg",
+    "imageFile2": "1792553929128-15c94f5e.jpg"
   }
 ]
