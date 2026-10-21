@@ -1247,5 +1247,23 @@
     "imageFile": "1792552557995-8b730e46.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792552559391-469063b7.jpg",
     "imageFile2": "1792552559391-469063b7.jpg"
+  },
+  {
+    "id": "1792552661607-cb7ed810",
+    "name": "燕麥",
+    "desc": "平款+流蘇",
+    "category": "hat",
+    "subcategory": "smallhood",
+    "price": 900,
+    "sizes": "",
+    "stock": 0,
+    "note": "小兜帽 82",
+    "newUntil": null,
+    "created_at": "2026-10-21T03:17:41.607Z",
+    "salePrice": 855,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792552661654-bbf39ef9.jpg",
+    "imageFile": "1792552661654-bbf39ef9.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792552662946-4c95df15.jpg",
+    "imageFile2": "1792552662946-4c95df15.jpg"
   }
 ]
