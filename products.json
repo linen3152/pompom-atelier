@@ -1601,7 +1601,7 @@
     "category": "bag",
     "subcategory": "",
     "price": 600,
-    "sizes": "",
+    "sizes": "包身寬16cm/長22cm/提手20cm",
     "stock": 1,
     "note": "雲朵 紫",
     "newUntil": "2026-10-29T09:55:33.723Z",
@@ -1611,7 +1611,7 @@
     "imageFile": "1792555570184-9bb1b484.jpg",
     "image2": null,
     "imageFile2": null,
-    "updated_at": "2026-10-22T09:55:33.935Z"
+    "updated_at": "2026-10-22T09:57:38.715Z"
   },
   {
     "id": "1792555619786-de70d4ff",
