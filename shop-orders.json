@@ -41,5 +41,38 @@
     "note": "",
     "created_at": "2026-09-17T10:05:08.442Z",
     "updated_at": "2026-09-27T03:55:23.292Z"
+  },
+  {
+    "id": "1792688293103-f1264aca",
+    "customer": {
+      "name": "陳家鈺",
+      "phone": "0978014283",
+      "email": "gertrude8696@gmail.com"
+    },
+    "store": {
+      "id": "235372",
+      "name": "新都門市"
+    },
+    "items": [
+      {
+        "id": "1792552661607-cb7ed810",
+        "name": "燕麥",
+        "price": 900,
+        "salePrice": 855,
+        "unitPrice": 855,
+        "qty": 1,
+        "note": "小兜帽 82"
+      }
+    ],
+    "originalSubtotal": 900,
+    "discount": 45,
+    "discountLabel": "商品特價",
+    "subtotal": 855,
+    "shipping": 38,
+    "total": 893,
+    "payment": "cod",
+    "status": "new",
+    "note": "",
+    "created_at": "2026-10-22T16:58:13.103Z"
   }
 ]
