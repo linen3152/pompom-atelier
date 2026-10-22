@@ -1620,7 +1620,7 @@
     "category": "bag",
     "subcategory": "",
     "price": 600,
-    "sizes": "",
+    "sizes": "包身寬16cm/長22cm/提手20cm",
     "stock": 1,
     "note": "雲朵 藍漸變",
     "newUntil": "2026-10-29T09:55:46.582Z",
@@ -1630,6 +1630,6 @@
     "imageFile": "1792555619799-26bbb089.jpg",
     "image2": null,
     "imageFile2": null,
-    "updated_at": "2026-10-22T09:55:46.795Z"
+    "updated_at": "2026-10-22T09:58:18.378Z"
   }
 ]
