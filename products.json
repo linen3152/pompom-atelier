@@ -1602,16 +1602,16 @@
     "subcategory": "",
     "price": 600,
     "sizes": "",
-    "stock": 0,
+    "stock": 1,
     "note": "雲朵 紫",
-    "newUntil": null,
+    "newUntil": "2026-10-29T09:55:33.723Z",
     "created_at": "2026-10-21T04:06:10.179Z",
     "salePrice": 540,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792555570184-9bb1b484.jpg",
     "imageFile": "1792555570184-9bb1b484.jpg",
     "image2": null,
     "imageFile2": null,
-    "updated_at": "2026-10-21T04:07:59.491Z"
+    "updated_at": "2026-10-22T09:55:33.935Z"
   },
   {
     "id": "1792555619786-de70d4ff",
