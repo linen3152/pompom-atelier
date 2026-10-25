@@ -1757,5 +1757,23 @@
     "imageFile": "1792951368705-23b06b1e.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951370112-7da34635.jpg",
     "imageFile2": "1792951370112-7da34635.jpg"
+  },
+  {
+    "id": "1792951480945-562ab1a2",
+    "name": "星星包",
+    "desc": "黃",
+    "category": "bag",
+    "subcategory": "",
+    "price": 1000,
+    "sizes": "",
+    "stock": 0,
+    "note": "星星黃",
+    "newUntil": null,
+    "created_at": "2026-10-25T18:04:40.945Z",
+    "salePrice": 900,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951480949-44c16a70.jpg",
+    "imageFile": "1792951480949-44c16a70.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951482237-7a9e7017.jpg",
+    "imageFile2": "1792951482237-7a9e7017.jpg"
   }
 ]
