@@ -1721,5 +1721,23 @@
     "imageFile": "1792951180084-9cb2577c.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951181412-416331fa.jpg",
     "imageFile2": "1792951181412-416331fa.jpg"
+  },
+  {
+    "id": "1792951265804-85f63611",
+    "name": "榛果",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "sheep",
+    "price": 1500,
+    "sizes": "大兜帽帽型",
+    "stock": 0,
+    "note": "羊耳",
+    "newUntil": null,
+    "created_at": "2026-10-25T18:01:05.804Z",
+    "salePrice": 1425,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951265822-accdfa6d.jpg",
+    "imageFile": "1792951265822-accdfa6d.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951267141-7d29add6.jpg",
+    "imageFile2": "1792951267141-7d29add6.jpg"
   }
 ]
