@@ -1631,5 +1631,23 @@
     "image2": null,
     "imageFile2": null,
     "updated_at": "2026-10-22T09:58:18.378Z"
+  },
+  {
+    "id": "1792950675149-338eee81",
+    "name": "栗子",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "rabbit",
+    "price": 1600,
+    "sizes": "大兜帽帽型",
+    "stock": 0,
+    "note": "兔耳",
+    "newUntil": null,
+    "created_at": "2026-10-25T17:51:15.150Z",
+    "salePrice": 1520,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792950675174-5dcdfe54.jpg",
+    "imageFile": "1792950675174-5dcdfe54.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792950676704-a820f183.jpg",
+    "imageFile2": "1792950676704-a820f183.jpg"
   }
 ]
