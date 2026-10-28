@@ -1063,25 +1063,6 @@
     "updated_at": "2026-10-22T09:51:05.224Z"
   },
   {
-    "id": "1792552474162-fd76482d",
-    "name": "暖杏",
-    "desc": "平款+流蘇",
-    "category": "hat",
-    "subcategory": "smallhood",
-    "price": 900,
-    "sizes": "",
-    "stock": 0,
-    "note": "小兜帽 80",
-    "newUntil": "2026-10-29T09:51:26.941Z",
-    "created_at": "2026-10-21T03:14:34.163Z",
-    "salePrice": 855,
-    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792552474178-ace3518b.jpg",
-    "imageFile": "1792552474178-ace3518b.jpg",
-    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792552475627-1dfe87d5.jpg",
-    "imageFile2": "1792552475627-1dfe87d5.jpg",
-    "updated_at": "2026-10-25T09:29:38.038Z"
-  },
-  {
     "id": "1792552557963-2308610a",
     "name": "摩卡",
     "desc": "平款+流蘇",
