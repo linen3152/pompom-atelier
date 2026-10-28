@@ -1390,7 +1390,7 @@
     "category": "hat",
     "subcategory": "rabbit",
     "price": 1600,
-    "sizes": "大兜帽帽型",
+    "sizes": "小兜帽帽型",
     "stock": 0,
     "note": "兔耳",
     "newUntil": null,
@@ -1399,7 +1399,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792950951944-b19a6f83.jpg",
     "imageFile": "1792950951944-b19a6f83.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792950953528-96065c8c.jpg",
-    "imageFile2": "1792950953528-96065c8c.jpg"
+    "imageFile2": "1792950953528-96065c8c.jpg",
+    "updated_at": "2026-10-28T16:28:46.252Z"
   },
   {
     "id": "1792951061566-90ff073f",
