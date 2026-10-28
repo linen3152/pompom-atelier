@@ -949,25 +949,6 @@
     "updated_at": "2026-10-15T09:52:17.102Z"
   },
   {
-    "id": "1791953562777-8f286c4f",
-    "name": "莓果",
-    "desc": "波浪款+流蘇",
-    "category": "hat",
-    "subcategory": "cat",
-    "price": 1000,
-    "sizes": "頭圍55cm/帽深18cm",
-    "stock": 0,
-    "note": "14",
-    "newUntil": "2026-10-22T09:52:40.860Z",
-    "created_at": "2026-10-14T04:52:42.777Z",
-    "salePrice": 950,
-    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791953562796-32422f02.jpg",
-    "imageFile": "1791953562796-32422f02.jpg",
-    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1791953564227-55c2b7a6.jpg",
-    "imageFile2": "1791953564227-55c2b7a6.jpg",
-    "updated_at": "2026-10-25T09:29:04.477Z"
-  },
-  {
     "id": "1791953718754-22e35651",
     "name": "霜",
     "desc": "長毛款+流蘇",
