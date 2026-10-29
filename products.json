@@ -1488,14 +1488,15 @@
     "subcategory": "",
     "price": 1000,
     "sizes": "",
-    "stock": 0,
+    "stock": 1,
     "note": "星星黃",
-    "newUntil": null,
+    "newUntil": "2026-11-05T09:55:06.453Z",
     "created_at": "2026-10-25T18:04:40.945Z",
     "salePrice": 900,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951480949-44c16a70.jpg",
     "imageFile": "1792951480949-44c16a70.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951482237-7a9e7017.jpg",
-    "imageFile2": "1792951482237-7a9e7017.jpg"
+    "imageFile2": "1792951482237-7a9e7017.jpg",
+    "updated_at": "2026-10-29T09:55:06.658Z"
   }
 ]
