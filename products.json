@@ -1413,14 +1413,15 @@
     "price": 1400,
     "sizes": "大兜帽帽型",
     "stock": 0,
-    "note": "兔耳",
+    "note": "兔耳 86",
     "newUntil": null,
     "created_at": "2026-10-25T17:57:41.567Z",
     "salePrice": 1330,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951061583-76d01de8.jpg",
     "imageFile": "1792951061583-76d01de8.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951062862-e1037b23.jpg",
-    "imageFile2": "1792951062862-e1037b23.jpg"
+    "imageFile2": "1792951062862-e1037b23.jpg",
+    "updated_at": "2026-10-29T03:19:11.145Z"
   },
   {
     "id": "1792951180067-dccf5079",
