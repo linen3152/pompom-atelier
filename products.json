@@ -1469,16 +1469,16 @@
     "subcategory": "sheep",
     "price": 1500,
     "sizes": "大兜帽帽型",
-    "stock": 0,
+    "stock": 1,
     "note": "羊耳 89",
-    "newUntil": null,
+    "newUntil": "2026-11-05T09:54:49.496Z",
     "created_at": "2026-10-25T18:02:48.688Z",
     "salePrice": 1425,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951368705-23b06b1e.jpg",
     "imageFile": "1792951368705-23b06b1e.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951370112-7da34635.jpg",
     "imageFile2": "1792951370112-7da34635.jpg",
-    "updated_at": "2026-10-29T03:19:50.856Z"
+    "updated_at": "2026-10-29T09:54:49.691Z"
   },
   {
     "id": "1792951480945-562ab1a2",
