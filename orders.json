@@ -23,5 +23,31 @@
     "note": "布丁配色🍮",
     "status": "new",
     "created_at": "2026-10-09T15:38:11.153Z"
+  },
+  {
+    "id": "1793460383240-70a961c4",
+    "contact": {
+      "platform": "line",
+      "handle": "筱芸🍉（Yuna)",
+      "phone": ""
+    },
+    "items": {
+      "hat": [
+        {
+          "style": "小羊帽（大兜帽）",
+          "brim": "波浪",
+          "strap": "辮子款",
+          "strapEnd": "無",
+          "tone": "淺色系",
+          "color": "棕",
+          "headSize": "56",
+          "depth": "17"
+        }
+      ]
+    },
+    "depositLast5": "99696",
+    "note": "我的羊帽要小兜帽，我是11/24在護城河跟你購買帽的客人～\n顏色我在傳賴跟你討論\n請問羊帽改成小兜帽價格也是一樣的嗎？",
+    "status": "new",
+    "created_at": "2026-10-31T15:26:23.240Z"
   }
 ]
