@@ -220,11 +220,12 @@
     "note": "月牙 黑",
     "newUntil": null,
     "created_at": "2026-09-07T09:03:08.887Z",
-    "salePrice": 1530,
+    "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771788911-01b14a66.jpg",
     "imageFile": "1788771788911-01b14a66.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771790334-0e9f8b71.jpg",
-    "imageFile2": "1788771790334-0e9f8b71.jpg"
+    "imageFile2": "1788771790334-0e9f8b71.jpg",
+    "updated_at": "2026-11-01T16:03:38.380Z"
   },
   {
     "id": "1788771872047-f04bc5ab",
