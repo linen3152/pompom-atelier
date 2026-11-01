@@ -125,11 +125,12 @@
     "note": "麥穗 綠",
     "newUntil": null,
     "created_at": "2026-09-07T08:54:49.674Z",
-    "salePrice": 801,
+    "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771289691-5ee74114.jpg",
     "imageFile": "1788771289691-5ee74114.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771291173-beaf2189.jpg",
-    "imageFile2": "1788771291173-beaf2189.jpg"
+    "imageFile2": "1788771291173-beaf2189.jpg",
+    "updated_at": "2026-11-01T16:02:21.258Z"
   },
   {
     "id": "1788771429804-25965c71",
