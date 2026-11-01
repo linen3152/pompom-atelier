@@ -353,11 +353,12 @@
     "note": "祖母 橘",
     "newUntil": null,
     "created_at": "2026-09-07T09:17:30.416Z",
-    "salePrice": 1260,
+    "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772650438-44e887dd.jpg",
     "imageFile": "1788772650438-44e887dd.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772651558-eb0446d7.jpg",
-    "imageFile2": "1788772651558-eb0446d7.jpg"
+    "imageFile2": "1788772651558-eb0446d7.jpg",
+    "updated_at": "2026-11-01T16:05:51.634Z"
   },
   {
     "id": "1788772746456-f49a5094",
