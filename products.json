@@ -785,12 +785,12 @@
     "note": "82",
     "newUntil": "2026-10-08T10:02:26.333Z",
     "created_at": "2026-09-30T04:50:00.794Z",
-    "salePrice": 1045,
+    "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743800831-5305bd22.jpg",
     "imageFile": "1790743800831-5305bd22.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1790743801893-96c99b53.jpg",
     "imageFile2": "1790743801893-96c99b53.jpg",
-    "updated_at": "2026-10-01T10:02:26.511Z"
+    "updated_at": "2026-11-01T16:11:42.886Z"
   },
   {
     "id": "1790744335619-9be2ee7f",
