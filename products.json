@@ -277,11 +277,12 @@
     "note": "月牙 桃",
     "newUntil": null,
     "created_at": "2026-09-07T09:06:54.031Z",
-    "salePrice": 1530,
+    "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772014053-80166cf8.jpg",
     "imageFile": "1788772014053-80166cf8.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772015248-d01101e6.jpg",
-    "imageFile2": "1788772015248-d01101e6.jpg"
+    "imageFile2": "1788772015248-d01101e6.jpg",
+    "updated_at": "2026-11-01T16:04:36.587Z"
   },
   {
     "id": "1788772078415-79542adf",
