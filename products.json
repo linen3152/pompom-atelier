@@ -372,11 +372,12 @@
     "note": "祖母 藍",
     "newUntil": null,
     "created_at": "2026-09-07T09:19:06.456Z",
-    "salePrice": 1260,
+    "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772746480-83d8b5c6.jpg",
     "imageFile": "1788772746480-83d8b5c6.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788772747812-7ef9708a.jpg",
-    "imageFile2": "1788772747812-7ef9708a.jpg"
+    "imageFile2": "1788772747812-7ef9708a.jpg",
+    "updated_at": "2026-11-01T16:06:08.051Z"
   },
   {
     "id": "1788772825301-d4f8f356",
