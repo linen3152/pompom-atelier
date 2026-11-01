@@ -182,11 +182,12 @@
     "note": "月牙 白",
     "newUntil": null,
     "created_at": "2026-09-07T09:00:41.876Z",
-    "salePrice": 1530,
+    "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771641906-50fd8996.jpg",
     "imageFile": "1788771641906-50fd8996.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771643384-21b1f2ec.jpg",
-    "imageFile2": "1788771643384-21b1f2ec.jpg"
+    "imageFile2": "1788771643384-21b1f2ec.jpg",
+    "updated_at": "2026-11-01T16:03:00.816Z"
   },
   {
     "id": "1788771725228-952607b6",
