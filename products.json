@@ -201,11 +201,12 @@
     "note": "月牙 灰",
     "newUntil": null,
     "created_at": "2026-09-07T09:02:05.229Z",
-    "salePrice": 1530,
+    "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771725251-c4a2a4e2.jpg",
     "imageFile": "1788771725251-c4a2a4e2.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788771726529-ce678ac5.jpg",
-    "imageFile2": "1788771726529-ce678ac5.jpg"
+    "imageFile2": "1788771726529-ce678ac5.jpg",
+    "updated_at": "2026-11-01T16:03:17.816Z"
   },
   {
     "id": "1788771788887-761c3c9e",
