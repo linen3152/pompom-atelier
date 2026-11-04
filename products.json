@@ -1624,7 +1624,7 @@
     "name": "棉花糖",
     "desc": "平款+流蘇",
     "category": "hat",
-    "subcategory": "smallhood",
+    "subcategory": "bighood",
     "price": 1200,
     "sizes": "",
     "stock": 0,
@@ -1635,7 +1635,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766453061-bab63cd4.jpg",
     "imageFile": "1793766453061-bab63cd4.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766454602-5b57e43f.jpg",
-    "imageFile2": "1793766454602-5b57e43f.jpg"
+    "imageFile2": "1793766454602-5b57e43f.jpg",
+    "updated_at": "2026-11-04T04:29:21.253Z"
   },
   {
     "id": "1793766555478-8a3ace99",
