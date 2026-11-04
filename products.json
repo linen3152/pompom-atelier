@@ -1636,5 +1636,23 @@
     "imageFile": "1793766453061-bab63cd4.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766454602-5b57e43f.jpg",
     "imageFile2": "1793766454602-5b57e43f.jpg"
+  },
+  {
+    "id": "1793766555478-8a3ace99",
+    "name": "春日花園",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "bighood",
+    "price": 1400,
+    "sizes": "",
+    "stock": 0,
+    "note": "大兜帽 8",
+    "newUntil": null,
+    "created_at": "2026-11-04T04:29:15.478Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766555492-c1c59691.jpg",
+    "imageFile": "1793766555492-c1c59691.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766556912-4ebaa66b.jpg",
+    "imageFile2": "1793766556912-4ebaa66b.jpg"
   }
 ]
