@@ -1600,5 +1600,23 @@
     "imageFile": "1793766062754-7e0453ec.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766064415-fbad520a.jpg",
     "imageFile2": "1793766064415-fbad520a.jpg"
+  },
+  {
+    "id": "1793766357256-b0a7e603",
+    "name": "紫藤",
+    "desc": "平款+流蘇",
+    "category": "hat",
+    "subcategory": "bighood",
+    "price": 1200,
+    "sizes": "",
+    "stock": 0,
+    "note": "大兜帽 6",
+    "newUntil": null,
+    "created_at": "2026-11-04T04:25:57.256Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766357274-63f94150.jpg",
+    "imageFile": "1793766357274-63f94150.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766358972-99c04bb6.jpg",
+    "imageFile2": "1793766358972-99c04bb6.jpg"
   }
 ]
