@@ -1618,5 +1618,23 @@
     "imageFile": "1793766357274-63f94150.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766358972-99c04bb6.jpg",
     "imageFile2": "1793766358972-99c04bb6.jpg"
+  },
+  {
+    "id": "1793766453055-8f3aca6c",
+    "name": "棉花糖",
+    "desc": "平款+流蘇",
+    "category": "hat",
+    "subcategory": "smallhood",
+    "price": 1200,
+    "sizes": "",
+    "stock": 0,
+    "note": "大兜帽 7",
+    "newUntil": null,
+    "created_at": "2026-11-04T04:27:33.055Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766453061-bab63cd4.jpg",
+    "imageFile": "1793766453061-bab63cd4.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766454602-5b57e43f.jpg",
+    "imageFile2": "1793766454602-5b57e43f.jpg"
   }
 ]
