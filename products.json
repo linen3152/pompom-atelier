@@ -1456,5 +1456,23 @@
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792951482237-7a9e7017.jpg",
     "imageFile2": "1792951482237-7a9e7017.jpg",
     "updated_at": "2026-11-01T16:07:28.467Z"
+  },
+  {
+    "id": "1793765629320-d0c25d0b",
+    "name": "毛茸茸",
+    "desc": "紫",
+    "category": "scarf",
+    "subcategory": "",
+    "price": 800,
+    "sizes": "寬15公分/長90公分",
+    "stock": 0,
+    "note": "圍巾 紫",
+    "newUntil": null,
+    "created_at": "2026-11-04T04:13:49.320Z",
+    "salePrice": 720,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793765629344-082a0220.jpg",
+    "imageFile": "1793765629344-082a0220.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793765631459-302dce5e.jpg",
+    "imageFile2": "1793765631459-302dce5e.jpg"
   }
 ]
