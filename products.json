@@ -1564,5 +1564,23 @@
     "imageFile": "1793765950420-0ddd40b9.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793765951854-5c89029a.jpg",
     "imageFile2": "1793765951854-5c89029a.jpg"
+  },
+  {
+    "id": "1793766010076-adcb4e72",
+    "name": "毛茸茸",
+    "desc": "綠",
+    "category": "scarf",
+    "subcategory": "",
+    "price": 800,
+    "sizes": "寬15公分/長90公分",
+    "stock": 0,
+    "note": "圍巾 綠",
+    "newUntil": null,
+    "created_at": "2026-11-04T04:20:10.076Z",
+    "salePrice": 720,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766010081-a35db3b6.jpg",
+    "imageFile": "1793766010081-a35db3b6.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766011679-d16b6cea.jpg",
+    "imageFile2": "1793766011679-d16b6cea.jpg"
   }
 ]
