@@ -1528,5 +1528,23 @@
     "imageFile": "1793765833015-2bb299b2.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793765834562-11a66bc8.jpg",
     "imageFile2": "1793765834562-11a66bc8.jpg"
+  },
+  {
+    "id": "1793765893620-db6439e7",
+    "name": "毛茸茸",
+    "desc": "敦煌",
+    "category": "scarf",
+    "subcategory": "",
+    "price": 800,
+    "sizes": "寬15公分/長90公分",
+    "stock": 0,
+    "note": "圍巾  敦煌",
+    "newUntil": null,
+    "created_at": "2026-11-04T04:18:13.620Z",
+    "salePrice": 720,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793765893640-5c3c3422.jpg",
+    "imageFile": "1793765893640-5c3c3422.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793765895260-b08be1e3.jpg",
+    "imageFile2": "1793765895260-b08be1e3.jpg"
   }
 ]
