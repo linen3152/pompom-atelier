@@ -1560,16 +1560,16 @@
     "subcategory": "",
     "price": 800,
     "sizes": "寬15公分/長90公分",
-    "stock": 0,
+    "stock": 1,
     "note": "圍巾 55",
-    "newUntil": null,
+    "newUntil": "2026-11-12T09:56:09.972Z",
     "created_at": "2026-11-04T04:20:10.076Z",
     "salePrice": 720,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766010081-a35db3b6.jpg",
     "imageFile": "1793766010081-a35db3b6.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766011679-d16b6cea.jpg",
     "imageFile2": "1793766011679-d16b6cea.jpg",
-    "updated_at": "2026-11-04T04:30:55.439Z"
+    "updated_at": "2026-11-05T09:56:10.193Z"
   },
   {
     "id": "1793766062714-cfad1dbb",
