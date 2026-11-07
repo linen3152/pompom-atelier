@@ -1230,25 +1230,6 @@
     "updated_at": "2026-11-01T16:13:26.396Z"
   },
   {
-    "id": "1792950951922-c4c7eeb1",
-    "name": "漫遊",
-    "desc": "長毛款+流蘇",
-    "category": "hat",
-    "subcategory": "rabbit",
-    "price": 1600,
-    "sizes": "小兜帽帽型",
-    "stock": 0,
-    "note": "兔耳 85",
-    "newUntil": "2026-11-05T09:51:47.833Z",
-    "created_at": "2026-10-25T17:55:51.922Z",
-    "salePrice": null,
-    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792950951944-b19a6f83.jpg",
-    "imageFile": "1792950951944-b19a6f83.jpg",
-    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1792950953528-96065c8c.jpg",
-    "imageFile2": "1792950953528-96065c8c.jpg",
-    "updated_at": "2026-11-07T08:26:48.335Z"
-  },
-  {
     "id": "1792951061566-90ff073f",
     "name": "桃子",
     "desc": "平款+流蘇",
