@@ -127,5 +127,30 @@
     "note": "",
     "status": "new",
     "created_at": "2026-11-03T03:12:45.985Z"
+  },
+  {
+    "id": "1794062536177-bb32303e",
+    "contact": {
+      "platform": "line",
+      "handle": "涵涵",
+      "phone": ""
+    },
+    "items": {
+      "hat": [
+        {
+          "style": "兔耳帽（大兜帽）",
+          "brim": "平款",
+          "strap": "流蘇款",
+          "tone": "淺色系",
+          "color": "粉",
+          "headSize": "58.5",
+          "depth": "16"
+        }
+      ]
+    },
+    "depositLast5": "59406",
+    "note": "",
+    "status": "new",
+    "created_at": "2026-11-07T14:42:16.178Z"
   }
 ]
