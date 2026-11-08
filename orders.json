@@ -152,5 +152,31 @@
     "note": "",
     "status": "new",
     "created_at": "2026-11-07T14:42:16.178Z"
+  },
+  {
+    "id": "1794151301454-abeab753",
+    "contact": {
+      "platform": "line",
+      "handle": "婷婷",
+      "phone": ""
+    },
+    "items": {
+      "hat": [
+        {
+          "style": "兔耳帽（大兜帽）",
+          "brim": "平款",
+          "strap": "辮子款",
+          "strapEnd": "毛球",
+          "tone": "淺色系",
+          "color": "白",
+          "headSize": "53cm",
+          "depth": "15cm"
+        }
+      ]
+    },
+    "depositLast5": "78286",
+    "note": "我想增加一些亮晶晶的元素\n再額外收費也可以的",
+    "status": "new",
+    "created_at": "2026-11-08T15:21:41.455Z"
   }
 ]
