@@ -1558,5 +1558,23 @@
     "imageFile": "1794378756728-1355446a.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378758351-e37ef4c5.jpg",
     "imageFile2": "1794378758351-e37ef4c5.jpg"
+  },
+  {
+    "id": "1794378851528-3eb1ae40",
+    "name": "沐木",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "bighood",
+    "price": 1400,
+    "sizes": "",
+    "stock": 0,
+    "note": "大兜 15",
+    "newUntil": null,
+    "created_at": "2026-11-11T06:34:11.528Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378851549-3bcf5aa2.jpg",
+    "imageFile": "1794378851549-3bcf5aa2.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378853246-3568d896.jpg",
+    "imageFile2": "1794378853246-3568d896.jpg"
   }
 ]
