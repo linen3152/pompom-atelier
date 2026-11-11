@@ -1504,5 +1504,23 @@
     "imageFile": "1794378471079-ce1e5c34.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378472854-8eb04574.jpg",
     "imageFile2": "1794378472854-8eb04574.jpg"
+  },
+  {
+    "id": "1794378557186-12918d2e",
+    "name": "紫芋",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "bighood",
+    "price": 1300,
+    "sizes": "",
+    "stock": 0,
+    "note": "大兜 12",
+    "newUntil": null,
+    "created_at": "2026-11-11T06:29:17.186Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378557206-7e75f2ad.jpg",
+    "imageFile": "1794378557206-7e75f2ad.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378558727-504b5c86.jpg",
+    "imageFile2": "1794378558727-504b5c86.jpg"
   }
 ]
