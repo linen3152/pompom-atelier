@@ -1448,5 +1448,23 @@
     "imageFile": "1794377899396-3822fbcb.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794377901274-a0c5ad24.jpg",
     "imageFile2": "1794377901274-a0c5ad24.jpg"
+  },
+  {
+    "id": "1794378104976-065e5dbf",
+    "name": "閃爍",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1100,
+    "sizes": "頭圍54cm/帽深18cm",
+    "stock": 0,
+    "note": "貓耳 75",
+    "newUntil": null,
+    "created_at": "2026-11-11T06:21:44.976Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378104998-d04e5bf5.jpg",
+    "imageFile": "1794378104998-d04e5bf5.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378106458-63559125.jpg",
+    "imageFile2": "1794378106458-63559125.jpg"
   }
 ]
