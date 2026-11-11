@@ -1493,5 +1493,23 @@
     "imageFile": "1794376997492-97f256e7.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794376999573-4debf450.jpg",
     "imageFile2": "1794376999573-4debf450.jpg"
+  },
+  {
+    "id": "1794377111999-83c9e085",
+    "name": "夢",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "頭圍57cm/帽深18cm",
+    "stock": 0,
+    "note": "貓耳 15",
+    "newUntil": null,
+    "created_at": "2026-11-11T06:05:11.999Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794377112013-35d0dc1e.jpg",
+    "imageFile": "1794377112013-35d0dc1e.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794377113488-c54992ad.jpg",
+    "imageFile2": "1794377113488-c54992ad.jpg"
   }
 ]
