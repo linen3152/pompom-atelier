@@ -1475,5 +1475,23 @@
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1793766863991-a9dda139.jpg",
     "imageFile2": "1793766863991-a9dda139.jpg",
     "updated_at": "2026-11-05T09:57:14.091Z"
+  },
+  {
+    "id": "1794376997451-ed40fe1a",
+    "name": "翠兒",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "頭圍56cm/帽深17cm",
+    "stock": 0,
+    "note": "貓耳 4",
+    "newUntil": null,
+    "created_at": "2026-11-11T06:03:17.468Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794376997492-97f256e7.jpg",
+    "imageFile": "1794376997492-97f256e7.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794376999573-4debf450.jpg",
+    "imageFile2": "1794376999573-4debf450.jpg"
   }
 ]
