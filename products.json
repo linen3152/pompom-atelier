@@ -1522,5 +1522,23 @@
     "imageFile": "1794378557206-7e75f2ad.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378558727-504b5c86.jpg",
     "imageFile2": "1794378558727-504b5c86.jpg"
+  },
+  {
+    "id": "1794378661940-6f3159f3",
+    "name": "薄荷巧克力",
+    "desc": "平款+流蘇",
+    "category": "hat",
+    "subcategory": "bighood",
+    "price": 1200,
+    "sizes": "",
+    "stock": 0,
+    "note": "大兜 13",
+    "newUntil": null,
+    "created_at": "2026-11-11T06:31:01.940Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378661948-1ec083dc.jpg",
+    "imageFile": "1794378661948-1ec083dc.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378663405-8ffc0775.jpg",
+    "imageFile2": "1794378663405-8ffc0775.jpg"
   }
 ]
