@@ -38,25 +38,6 @@
     "updated_at": "2026-11-01T16:01:12.213Z"
   },
   {
-    "id": "1788770013386-8eac30d0",
-    "name": "紫丁香",
-    "desc": "波浪款+流蘇",
-    "category": "hat",
-    "subcategory": "cat",
-    "price": 1000,
-    "sizes": "頭圍55cm/帽深19cm",
-    "stock": 0,
-    "note": "貓耳 9",
-    "newUntil": null,
-    "created_at": "2026-09-07T08:33:33.386Z",
-    "salePrice": null,
-    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770013409-7da0ae50.jpg",
-    "imageFile": "1788770013409-7da0ae50.jpg",
-    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1788770014375-d34cee60.jpg",
-    "imageFile2": "1788770014375-d34cee60.jpg",
-    "updated_at": "2026-11-08T07:48:53.881Z"
-  },
-  {
     "id": "1788770407649-badea136",
     "name": "暗黑粉",
     "desc": "波浪款+流蘇",
