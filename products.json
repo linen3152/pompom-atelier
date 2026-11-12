@@ -1541,7 +1541,7 @@
     "subcategory": "bighood",
     "price": 1200,
     "sizes": "",
-    "stock": 0,
+    "stock": 1,
     "note": "大兜 13",
     "newUntil": null,
     "created_at": "2026-11-11T06:31:01.940Z",
@@ -1549,7 +1549,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378661948-1ec083dc.jpg",
     "imageFile": "1794378661948-1ec083dc.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794378663405-8ffc0775.jpg",
-    "imageFile2": "1794378663405-8ffc0775.jpg"
+    "imageFile2": "1794378663405-8ffc0775.jpg",
+    "updated_at": "2026-11-12T09:57:34.206Z"
   },
   {
     "id": "1794378756707-24caaacd",
