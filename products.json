@@ -1598,7 +1598,7 @@
     "subcategory": "",
     "price": 750,
     "sizes": "",
-    "stock": 0,
+    "stock": 1,
     "note": "耳罩硬 51",
     "newUntil": null,
     "created_at": "2026-11-11T06:40:13.627Z",
@@ -1606,7 +1606,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794379213648-8f38e634.jpg",
     "imageFile": "1794379213648-8f38e634.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794379215044-53f6ad70.jpg",
-    "imageFile2": "1794379215044-53f6ad70.jpg"
+    "imageFile2": "1794379215044-53f6ad70.jpg",
+    "updated_at": "2026-11-12T09:58:06.701Z"
   },
   {
     "id": "1794379306911-15f7711c",
