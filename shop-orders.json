@@ -109,5 +109,38 @@
     "note": "",
     "created_at": "2026-11-01T14:39:12.130Z",
     "updated_at": "2026-11-05T09:54:37.020Z"
+  },
+  {
+    "id": "1794716608479-4df87a7b",
+    "customer": {
+      "name": "李晨瑜",
+      "phone": "0911987087",
+      "email": "chenyu0611s@gmail.com"
+    },
+    "store": {
+      "id": "257486",
+      "name": "巨福門市"
+    },
+    "items": [
+      {
+        "id": "1788770407649-badea136",
+        "name": "暗黑粉",
+        "price": 1000,
+        "salePrice": null,
+        "unitPrice": 1000,
+        "qty": 1,
+        "note": "貓耳 26"
+      }
+    ],
+    "originalSubtotal": 1000,
+    "discount": 0,
+    "discountLabel": "",
+    "subtotal": 1000,
+    "shipping": 38,
+    "total": 1038,
+    "payment": "cod",
+    "status": "new",
+    "note": "",
+    "created_at": "2026-11-15T04:23:28.479Z"
   }
 ]
