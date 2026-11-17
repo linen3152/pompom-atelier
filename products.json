@@ -1437,5 +1437,23 @@
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794379375032-aff0c41a.jpg",
     "imageFile2": "1794379375032-aff0c41a.jpg",
     "updated_at": "2026-11-12T10:06:07.137Z"
+  },
+  {
+    "id": "1794934291291-b03cf74d",
+    "name": "Kitty",
+    "desc": "",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 900,
+    "sizes": "",
+    "stock": 0,
+    "note": "🌟",
+    "newUntil": null,
+    "created_at": "2026-11-17T16:51:31.291Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934291309-e58c574a.jpg",
+    "imageFile": "1794934291309-e58c574a.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934292721-35880ec3.jpg",
+    "imageFile2": "1794934292721-35880ec3.jpg"
   }
 ]
