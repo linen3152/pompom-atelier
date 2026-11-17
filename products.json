@@ -1692,9 +1692,9 @@
     "category": "hat",
     "subcategory": "fox",
     "price": 1600,
-    "sizes": "",
+    "sizes": "小兜帽帽型",
     "stock": 0,
-    "note": "",
+    "note": "🌟14",
     "newUntil": null,
     "created_at": "2026-11-17T17:06:09.436Z",
     "salePrice": null,
@@ -1702,7 +1702,7 @@
     "imageFile": "1794935169459-5a4a3c6e.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935171116-2fee7ade.jpg",
     "imageFile2": "1794935171116-2fee7ade.jpg",
-    "updated_at": "2026-11-17T17:06:25.188Z"
+    "updated_at": "2026-11-17T17:38:32.114Z"
   },
   {
     "id": "1794935608399-99e6522b",
