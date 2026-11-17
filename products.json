@@ -1599,5 +1599,23 @@
     "imageFile": "1794934836909-9b29811a.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934838578-c9e07643.jpg",
     "imageFile2": "1794934838578-c9e07643.jpg"
+  },
+  {
+    "id": "1794934884670-863edfeb",
+    "name": "赤狐",
+    "desc": "",
+    "category": "hat",
+    "subcategory": "fox",
+    "price": 1600,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-17T17:01:24.670Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934884689-37192c8b.jpg",
+    "imageFile": "1794934884689-37192c8b.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934886725-86d9a3a5.jpg",
+    "imageFile2": "1794934886725-86d9a3a5.jpg"
   }
 ]
