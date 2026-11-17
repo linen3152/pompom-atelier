@@ -1513,7 +1513,7 @@
   {
     "id": "1794934563091-fa05d122",
     "name": "森",
-    "desc": "",
+    "desc": "平款+辮子",
     "category": "hat",
     "subcategory": "smallhood",
     "price": 900,
@@ -1526,7 +1526,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934563110-6002a98c.jpg",
     "imageFile": "1794934563110-6002a98c.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934564578-a838a367.jpg",
-    "imageFile2": "1794934564578-a838a367.jpg"
+    "imageFile2": "1794934564578-a838a367.jpg",
+    "updated_at": "2026-11-17T17:09:56.662Z"
   },
   {
     "id": "1794934618050-938043cd",
