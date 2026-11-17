@@ -1563,5 +1563,23 @@
     "imageFile": "1794934701772-be0db91a.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934703313-ea2793c3.jpg",
     "imageFile2": "1794934703313-ea2793c3.jpg"
+  },
+  {
+    "id": "1794934775490-a8a8854e",
+    "name": "木",
+    "desc": "",
+    "category": "hat",
+    "subcategory": "smallhood",
+    "price": 900,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-17T16:59:35.490Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934775514-64b356b5.jpg",
+    "imageFile": "1794934775514-64b356b5.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934778363-81fa6b0c.jpg",
+    "imageFile2": "1794934778363-81fa6b0c.jpg"
   }
 ]
