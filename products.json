@@ -1491,5 +1491,23 @@
     "imageFile": "1794934416907-b9b9960b.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934418656-4b1db043.jpg",
     "imageFile2": "1794934418656-4b1db043.jpg"
+  },
+  {
+    "id": "1794934476829-7f06fe87",
+    "name": "麻雀",
+    "desc": "",
+    "category": "hat",
+    "subcategory": "special",
+    "price": 1400,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-17T16:54:36.829Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934476834-3a38b0fb.jpg",
+    "imageFile": "1794934476834-3a38b0fb.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934478319-259edd5d.jpg",
+    "imageFile2": "1794934478319-259edd5d.jpg"
   }
 ]
