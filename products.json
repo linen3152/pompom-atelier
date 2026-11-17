@@ -1521,7 +1521,7 @@
     "category": "hat",
     "subcategory": "smallhood",
     "price": 900,
-    "sizes": "小兜帽帽型",
+    "sizes": "",
     "stock": 0,
     "note": "🌟5",
     "newUntil": null,
@@ -1531,7 +1531,7 @@
     "imageFile": "1794934563110-6002a98c.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934564578-a838a367.jpg",
     "imageFile2": "1794934564578-a838a367.jpg",
-    "updated_at": "2026-11-17T17:36:27.170Z"
+    "updated_at": "2026-11-17T17:41:29.581Z"
   },
   {
     "id": "1794934618050-938043cd",
