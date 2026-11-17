@@ -1671,5 +1671,23 @@
     "imageFile": "1794935090813-1b3bd72b.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935092375-cf941f19.jpg",
     "imageFile2": "1794935092375-cf941f19.jpg"
+  },
+  {
+    "id": "1794935169436-fbf75300",
+    "name": "夜",
+    "desc": "長毛款+辮子",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1600,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-17T17:06:09.436Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935169459-5a4a3c6e.jpg",
+    "imageFile": "1794935169459-5a4a3c6e.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935171116-2fee7ade.jpg",
+    "imageFile2": "1794935171116-2fee7ade.jpg"
   }
 ]
