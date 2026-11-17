@@ -1622,7 +1622,7 @@
   {
     "id": "1794934942991-3ec57a55",
     "name": "蛋糕",
-    "desc": "",
+    "desc": "波浪款+流蘇",
     "category": "hat",
     "subcategory": "fox",
     "price": 1500,
@@ -1635,7 +1635,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934943010-cb8af18d.jpg",
     "imageFile": "1794934943010-cb8af18d.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934944870-1d7d302a.jpg",
-    "imageFile2": "1794934944870-1d7d302a.jpg"
+    "imageFile2": "1794934944870-1d7d302a.jpg",
+    "updated_at": "2026-11-17T17:07:07.099Z"
   },
   {
     "id": "1794934994310-fba9acc4",
