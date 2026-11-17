@@ -1677,7 +1677,7 @@
     "name": "夜",
     "desc": "長毛款+辮子",
     "category": "hat",
-    "subcategory": "cat",
+    "subcategory": "fox",
     "price": 1600,
     "sizes": "",
     "stock": 0,
@@ -1688,6 +1688,7 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935169459-5a4a3c6e.jpg",
     "imageFile": "1794935169459-5a4a3c6e.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935171116-2fee7ade.jpg",
-    "imageFile2": "1794935171116-2fee7ade.jpg"
+    "imageFile2": "1794935171116-2fee7ade.jpg",
+    "updated_at": "2026-11-17T17:06:25.188Z"
   }
 ]
