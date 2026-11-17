@@ -1477,7 +1477,7 @@
   {
     "id": "1794934416887-26f43c6e",
     "name": "小狗",
-    "desc": "",
+    "desc": "平款+辮子",
     "category": "hat",
     "subcategory": "special",
     "price": 900,
@@ -1490,7 +1490,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934416907-b9b9960b.jpg",
     "imageFile": "1794934416907-b9b9960b.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934418656-4b1db043.jpg",
-    "imageFile2": "1794934418656-4b1db043.jpg"
+    "imageFile2": "1794934418656-4b1db043.jpg",
+    "updated_at": "2026-11-17T17:10:15.581Z"
   },
   {
     "id": "1794934476829-7f06fe87",
