@@ -1792,5 +1792,23 @@
     "imageFile": "1794935892713-1d818b3e.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935894191-b9bfc8da.jpg",
     "imageFile2": "1794935894191-b9bfc8da.jpg"
+  },
+  {
+    "id": "1794935956274-7addc501",
+    "name": "青花瓷",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "rabbit",
+    "price": 1500,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-17T17:19:16.274Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935956278-e269bc3a.jpg",
+    "imageFile": "1794935956278-e269bc3a.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935957766-0cfb6dc1.jpg",
+    "imageFile2": "1794935957766-0cfb6dc1.jpg"
   }
 ]
