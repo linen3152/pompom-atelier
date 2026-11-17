@@ -1581,5 +1581,23 @@
     "imageFile": "1794934775514-64b356b5.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934778363-81fa6b0c.jpg",
     "imageFile2": "1794934778363-81fa6b0c.jpg"
+  },
+  {
+    "id": "1794934836890-c6bd835d",
+    "name": "棒棒糖",
+    "desc": "",
+    "category": "hat",
+    "subcategory": "smallhood",
+    "price": 900,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-17T17:00:36.890Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934836909-9b29811a.jpg",
+    "imageFile": "1794934836909-9b29811a.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934838578-c9e07643.jpg",
+    "imageFile2": "1794934838578-c9e07643.jpg"
   }
 ]
