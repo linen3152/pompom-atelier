@@ -1617,5 +1617,23 @@
     "imageFile": "1794934884689-37192c8b.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934886725-86d9a3a5.jpg",
     "imageFile2": "1794934886725-86d9a3a5.jpg"
+  },
+  {
+    "id": "1794934942991-3ec57a55",
+    "name": "蛋糕",
+    "desc": "",
+    "category": "hat",
+    "subcategory": "fox",
+    "price": 1500,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-17T17:02:22.991Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934943010-cb8af18d.jpg",
+    "imageFile": "1794934943010-cb8af18d.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934944870-1d7d302a.jpg",
+    "imageFile2": "1794934944870-1d7d302a.jpg"
   }
 ]
