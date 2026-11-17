@@ -1603,7 +1603,7 @@
   {
     "id": "1794934884670-863edfeb",
     "name": "赤狐",
-    "desc": "",
+    "desc": "長毛款+辮子",
     "category": "hat",
     "subcategory": "fox",
     "price": 1600,
@@ -1616,7 +1616,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934884689-37192c8b.jpg",
     "imageFile": "1794934884689-37192c8b.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934886725-86d9a3a5.jpg",
-    "imageFile2": "1794934886725-86d9a3a5.jpg"
+    "imageFile2": "1794934886725-86d9a3a5.jpg",
+    "updated_at": "2026-11-17T17:06:46.752Z"
   },
   {
     "id": "1794934942991-3ec57a55",
