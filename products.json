@@ -1720,5 +1720,23 @@
     "imageFile": "1794935608415-694e064b.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935610209-0fbf7604.jpg",
     "imageFile2": "1794935610209-0fbf7604.jpg"
+  },
+  {
+    "id": "1794935675474-fd170995",
+    "name": "米",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "rabbit",
+    "price": 1500,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-17T17:14:35.474Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935675495-9eb4601d.jpg",
+    "imageFile": "1794935675495-9eb4601d.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935677345-a18f5bbf.jpg",
+    "imageFile2": "1794935677345-a18f5bbf.jpg"
   }
 ]
