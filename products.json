@@ -1641,7 +1641,7 @@
   {
     "id": "1794934994310-fba9acc4",
     "name": "敦煌",
-    "desc": "",
+    "desc": "波浪款+流蘇",
     "category": "hat",
     "subcategory": "fox",
     "price": 1500,
@@ -1654,7 +1654,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934994339-de3196db.jpg",
     "imageFile": "1794934994339-de3196db.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934996074-e57317d1.jpg",
-    "imageFile2": "1794934996074-e57317d1.jpg"
+    "imageFile2": "1794934996074-e57317d1.jpg",
+    "updated_at": "2026-11-17T17:07:33.418Z"
   },
   {
     "id": "1794935090791-9ae1d8b4",
