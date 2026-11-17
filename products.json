@@ -1473,5 +1473,23 @@
     "imageFile": "1794934363675-b7e85714.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934365246-4691a11f.jpg",
     "imageFile2": "1794934365246-4691a11f.jpg"
+  },
+  {
+    "id": "1794934416887-26f43c6e",
+    "name": "小狗",
+    "desc": "",
+    "category": "hat",
+    "subcategory": "special",
+    "price": 900,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-17T16:53:36.887Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934416907-b9b9960b.jpg",
+    "imageFile": "1794934416907-b9b9960b.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934418656-4b1db043.jpg",
+    "imageFile2": "1794934418656-4b1db043.jpg"
   }
 ]
