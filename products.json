@@ -1567,7 +1567,7 @@
   {
     "id": "1794934775490-a8a8854e",
     "name": "木",
-    "desc": "",
+    "desc": "平款+流蘇",
     "category": "hat",
     "subcategory": "smallhood",
     "price": 900,
@@ -1580,7 +1580,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934775514-64b356b5.jpg",
     "imageFile": "1794934775514-64b356b5.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934778363-81fa6b0c.jpg",
-    "imageFile2": "1794934778363-81fa6b0c.jpg"
+    "imageFile2": "1794934778363-81fa6b0c.jpg",
+    "updated_at": "2026-11-17T17:08:14.287Z"
   },
   {
     "id": "1794934836890-c6bd835d",
