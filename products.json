@@ -1498,7 +1498,7 @@
   {
     "id": "1794934476829-7f06fe87",
     "name": "麻雀",
-    "desc": "",
+    "desc": "長毛款+辮子",
     "category": "hat",
     "subcategory": "special",
     "price": 1400,
@@ -1511,7 +1511,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934476834-3a38b0fb.jpg",
     "imageFile": "1794934476834-3a38b0fb.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934478319-259edd5d.jpg",
-    "imageFile2": "1794934478319-259edd5d.jpg"
+    "imageFile2": "1794934478319-259edd5d.jpg",
+    "updated_at": "2026-11-17T17:11:25.214Z"
   },
   {
     "id": "1794934563091-fa05d122",
