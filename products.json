@@ -1738,5 +1738,23 @@
     "imageFile": "1794935675495-9eb4601d.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935677345-a18f5bbf.jpg",
     "imageFile2": "1794935677345-a18f5bbf.jpg"
+  },
+  {
+    "id": "1794935745994-d0517213",
+    "name": "紫雲",
+    "desc": "平款+毛球",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1500,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-17T17:15:45.994Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935746015-753301f9.jpg",
+    "imageFile": "1794935746015-753301f9.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935747804-449874d8.jpg",
+    "imageFile2": "1794935747804-449874d8.jpg"
   }
 ]
