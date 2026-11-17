@@ -1585,7 +1585,7 @@
   {
     "id": "1794934836890-c6bd835d",
     "name": "棒棒糖",
-    "desc": "",
+    "desc": "平款+流蘇",
     "category": "hat",
     "subcategory": "smallhood",
     "price": 900,
@@ -1598,7 +1598,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934836909-9b29811a.jpg",
     "imageFile": "1794934836909-9b29811a.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934838578-c9e07643.jpg",
-    "imageFile2": "1794934838578-c9e07643.jpg"
+    "imageFile2": "1794934838578-c9e07643.jpg",
+    "updated_at": "2026-11-17T17:08:03.936Z"
   },
   {
     "id": "1794934884670-863edfeb",
