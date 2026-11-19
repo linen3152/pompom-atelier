@@ -1560,16 +1560,16 @@
     "subcategory": "smallhood",
     "price": 1100,
     "sizes": "",
-    "stock": 0,
+    "stock": 1,
     "note": "🌟7",
-    "newUntil": null,
+    "newUntil": "2026-11-26T09:36:36.985Z",
     "created_at": "2026-11-17T16:58:21.754Z",
     "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934701772-be0db91a.jpg",
     "imageFile": "1794934701772-be0db91a.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934703313-ea2793c3.jpg",
     "imageFile2": "1794934703313-ea2793c3.jpg",
-    "updated_at": "2026-11-18T10:09:25.554Z"
+    "updated_at": "2026-11-19T09:36:37.209Z"
   },
   {
     "id": "1794934775490-a8a8854e",
