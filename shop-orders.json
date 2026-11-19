@@ -32,5 +32,38 @@
     "note": "",
     "created_at": "2026-11-15T04:23:28.479Z",
     "updated_at": "2026-11-17T16:45:30.709Z"
+  },
+  {
+    "id": "1795087164034-60f40706",
+    "customer": {
+      "name": "劉思妤",
+      "phone": "0966408191",
+      "email": "sisi830922@gmail.com"
+    },
+    "store": {
+      "id": "253130",
+      "name": "後山埤門市"
+    },
+    "items": [
+      {
+        "id": "1794934775490-a8a8854e",
+        "name": "森",
+        "price": 900,
+        "salePrice": null,
+        "unitPrice": 900,
+        "qty": 1,
+        "note": "🌟8"
+      }
+    ],
+    "originalSubtotal": 900,
+    "discount": 0,
+    "discountLabel": "",
+    "subtotal": 900,
+    "shipping": 38,
+    "total": 938,
+    "payment": "cod",
+    "status": "new",
+    "note": "",
+    "created_at": "2026-11-19T11:19:24.035Z"
   }
 ]
