@@ -1712,16 +1712,16 @@
     "subcategory": "special",
     "price": 1500,
     "sizes": "頭圍60cm/帽深20cm",
-    "stock": 0,
+    "stock": 1,
     "note": "🌟15",
-    "newUntil": null,
+    "newUntil": "2026-11-26T09:37:44.665Z",
     "created_at": "2026-11-17T17:13:28.400Z",
     "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935608415-694e064b.jpg",
     "imageFile": "1794935608415-694e064b.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935610209-0fbf7604.jpg",
     "imageFile2": "1794935610209-0fbf7604.jpg",
-    "updated_at": "2026-11-19T07:22:05.127Z"
+    "updated_at": "2026-11-19T09:37:44.875Z"
   },
   {
     "id": "1794935675474-fd170995",
