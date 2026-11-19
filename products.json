@@ -1465,16 +1465,16 @@
     "subcategory": "bear",
     "price": 1200,
     "sizes": "小兜帽帽型",
-    "stock": 0,
+    "stock": 1,
     "note": "🌟2",
-    "newUntil": null,
+    "newUntil": "2026-11-26T09:35:28.279Z",
     "created_at": "2026-11-17T16:52:43.650Z",
     "salePrice": null,
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934363675-b7e85714.jpg",
     "imageFile": "1794934363675-b7e85714.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934365246-4691a11f.jpg",
     "imageFile2": "1794934365246-4691a11f.jpg",
-    "updated_at": "2026-11-18T10:06:37.423Z"
+    "updated_at": "2026-11-19T09:35:28.509Z"
   },
   {
     "id": "1794934416887-26f43c6e",
