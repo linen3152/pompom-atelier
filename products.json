@@ -1482,7 +1482,7 @@
     "desc": "平款+辮子",
     "category": "hat",
     "subcategory": "special",
-    "price": null,
+    "price": 900,
     "sizes": "頭圍59cm/帽深18cm",
     "stock": 0,
     "note": "🌟3",
@@ -1493,7 +1493,7 @@
     "imageFile": "1794934416907-b9b9960b.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934418656-4b1db043.jpg",
     "imageFile2": "1794934418656-4b1db043.jpg",
-    "updated_at": "2026-11-19T07:13:20.010Z"
+    "updated_at": "2026-11-19T07:25:38.832Z"
   },
   {
     "id": "1794934476829-7f06fe87",
