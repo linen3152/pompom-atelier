@@ -65,5 +65,38 @@
     "status": "new",
     "note": "",
     "created_at": "2026-11-19T11:19:24.035Z"
+  },
+  {
+    "id": "1795349348372-03635aeb",
+    "customer": {
+      "name": "劉金玉",
+      "phone": "0975736929",
+      "email": "nksh011040@gmail.com"
+    },
+    "store": {
+      "id": "257626",
+      "name": "義崙門市"
+    },
+    "items": [
+      {
+        "id": "1794935675474-fd170995",
+        "name": "糯米",
+        "price": 1500,
+        "salePrice": null,
+        "unitPrice": 1500,
+        "qty": 1,
+        "note": "🌟16"
+      }
+    ],
+    "originalSubtotal": 1500,
+    "discount": 0,
+    "discountLabel": "",
+    "subtotal": 1500,
+    "shipping": 0,
+    "total": 1500,
+    "payment": "cod",
+    "status": "new",
+    "note": "",
+    "created_at": "2026-11-22T12:09:08.372Z"
   }
 ]
