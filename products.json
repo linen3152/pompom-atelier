@@ -1663,5 +1663,23 @@
     "imageFile": "1795539989827-f4d68f17.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795539991550-c4db6b70.jpg",
     "imageFile2": "1795539991550-c4db6b70.jpg"
+  },
+  {
+    "id": "1795540137109-0ba45ac4",
+    "name": "小雛菊",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:08:57.109Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540137115-8512dc5b.jpg",
+    "imageFile": "1795540137115-8512dc5b.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540138507-a20ed06a.jpg",
+    "imageFile2": "1795540138507-a20ed06a.jpg"
   }
 ]
