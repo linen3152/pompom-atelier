@@ -1735,5 +1735,23 @@
     "imageFile": "1795540386440-67895c55.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540388047-711e4f6e.jpg",
     "imageFile2": "1795540388047-711e4f6e.jpg"
+  },
+  {
+    "id": "1795540483296-fe1e42cb",
+    "name": "夜玫瑰",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1100,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:14:43.297Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540483318-cb149da5.jpg",
+    "imageFile": "1795540483318-cb149da5.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540485097-8e71fad6.jpg",
+    "imageFile2": "1795540485097-8e71fad6.jpg"
   }
 ]
