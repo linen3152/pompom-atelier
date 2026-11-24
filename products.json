@@ -1645,5 +1645,23 @@
     "imageFile": "1795539940989-5a3e25aa.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795539942701-5c53dd49.jpg",
     "imageFile2": "1795539942701-5c53dd49.jpg"
+  },
+  {
+    "id": "1795539989798-cd46fa43",
+    "name": "浪潮",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:06:29.798Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795539989827-f4d68f17.jpg",
+    "imageFile": "1795539989827-f4d68f17.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795539991550-c4db6b70.jpg",
+    "imageFile2": "1795539991550-c4db6b70.jpg"
   }
 ]
