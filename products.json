@@ -1771,5 +1771,23 @@
     "imageFile": "1795540538559-b102b85c.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540540249-3243f084.jpg",
     "imageFile2": "1795540540249-3243f084.jpg"
+  },
+  {
+    "id": "1795540601561-23fe95b4",
+    "name": "泰迪",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:16:41.571Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540601592-53d491f2.jpg",
+    "imageFile": "1795540601592-53d491f2.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540603271-3992ebfd.jpg",
+    "imageFile2": "1795540603271-3992ebfd.jpg"
   }
 ]
