@@ -1917,5 +1917,23 @@
     "imageFile": "1795541173794-4c22f131.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541175308-91209b84.jpg",
     "imageFile2": "1795541175308-91209b84.jpg"
+  },
+  {
+    "id": "1795541432926-dd2c8553",
+    "name": "蛋糕",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "rabbit",
+    "price": 1500,
+    "sizes": "",
+    "stock": 0,
+    "note": "🌟 23",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:30:32.926Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541432956-cfcc9ece.jpg",
+    "imageFile": "1795541432956-cfcc9ece.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541434425-f1e79e76.jpg",
+    "imageFile2": "1795541434425-f1e79e76.jpg"
   }
 ]
