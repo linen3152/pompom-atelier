@@ -1790,5 +1790,23 @@
     "imageFile": "1795540601592-53d491f2.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540603271-3992ebfd.jpg",
     "imageFile2": "1795540603271-3992ebfd.jpg"
+  },
+  {
+    "id": "1795540723613-b3ab2cd9",
+    "name": "遇",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:18:43.614Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540723635-5a088c79.jpg",
+    "imageFile": "1795540723635-5a088c79.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540725281-260de06d.jpg",
+    "imageFile2": "1795540725281-260de06d.jpg"
   }
 ]
