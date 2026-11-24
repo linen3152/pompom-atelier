@@ -1627,5 +1627,23 @@
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795539877100-0f6fb4bd.jpg",
     "imageFile2": "1795539877100-0f6fb4bd.jpg",
     "updated_at": "2026-11-24T17:04:56.168Z"
+  },
+  {
+    "id": "1795539940970-5b778829",
+    "name": "庫洛米",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:05:40.970Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795539940989-5a3e25aa.jpg",
+    "imageFile": "1795539940989-5a3e25aa.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795539942701-5c53dd49.jpg",
+    "imageFile2": "1795539942701-5c53dd49.jpg"
   }
 ]
