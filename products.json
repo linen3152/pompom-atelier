@@ -1756,7 +1756,7 @@
   },
   {
     "id": "1795540538551-4bbd9d6a",
-    "name": "泰迪",
+    "name": "摩卡",
     "desc": "長毛款+流蘇",
     "category": "hat",
     "subcategory": "cat",
@@ -1770,7 +1770,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540538559-b102b85c.jpg",
     "imageFile": "1795540538559-b102b85c.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540540249-3243f084.jpg",
-    "imageFile2": "1795540540249-3243f084.jpg"
+    "imageFile2": "1795540540249-3243f084.jpg",
+    "updated_at": "2026-11-24T17:16:57.542Z"
   },
   {
     "id": "1795540601561-23fe95b4",
