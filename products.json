@@ -1608,5 +1608,23 @@
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935957766-0cfb6dc1.jpg",
     "imageFile2": "1794935957766-0cfb6dc1.jpg",
     "updated_at": "2026-11-19T09:38:08.980Z"
+  },
+  {
+    "id": "1795539874649-5bb2ce7d",
+    "name": "抹茶",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1000,
+    "sizes": "",
+    "stock": 1,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:04:34.650Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795539874667-c24fb612.jpg",
+    "imageFile": "1795539874667-c24fb612.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795539877100-0f6fb4bd.jpg",
+    "imageFile2": "1795539877100-0f6fb4bd.jpg"
   }
 ]
