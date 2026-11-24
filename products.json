@@ -1953,5 +1953,23 @@
     "imageFile": "1795541518919-7de91886.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541520384-517a47ad.jpg",
     "imageFile2": "1795541520384-517a47ad.jpg"
+  },
+  {
+    "id": "1795541683616-4c882758",
+    "name": "夜櫻",
+    "desc": "長毛款+辮子",
+    "category": "hat",
+    "subcategory": "rabbit",
+    "price": 1600,
+    "sizes": "小兜帽帽型",
+    "stock": 0,
+    "note": "🌟 25",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:34:43.616Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541683637-94b0eb76.jpg",
+    "imageFile": "1795541683637-94b0eb76.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541685614-7c9a2228.jpg",
+    "imageFile2": "1795541685614-7c9a2228.jpg"
   }
 ]
