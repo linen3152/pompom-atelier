@@ -1753,5 +1753,23 @@
     "imageFile": "1795540483318-cb149da5.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540485097-8e71fad6.jpg",
     "imageFile2": "1795540485097-8e71fad6.jpg"
+  },
+  {
+    "id": "1795540538551-4bbd9d6a",
+    "name": "泰迪",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1100,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:15:38.551Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540538559-b102b85c.jpg",
+    "imageFile": "1795540538559-b102b85c.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540540249-3243f084.jpg",
+    "imageFile2": "1795540540249-3243f084.jpg"
   }
 ]
