@@ -1617,7 +1617,7 @@
     "subcategory": "cat",
     "price": 1000,
     "sizes": "",
-    "stock": 1,
+    "stock": 0,
     "note": "",
     "newUntil": null,
     "created_at": "2026-11-24T17:04:34.650Z",
@@ -1625,6 +1625,7 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795539874667-c24fb612.jpg",
     "imageFile": "1795539874667-c24fb612.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795539877100-0f6fb4bd.jpg",
-    "imageFile2": "1795539877100-0f6fb4bd.jpg"
+    "imageFile2": "1795539877100-0f6fb4bd.jpg",
+    "updated_at": "2026-11-24T17:04:56.168Z"
   }
 ]
