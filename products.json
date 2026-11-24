@@ -1699,5 +1699,23 @@
     "imageFile": "1795540229516-56de5e25.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540231204-855dc296.jpg",
     "imageFile2": "1795540231204-855dc296.jpg"
+  },
+  {
+    "id": "1795540287429-48300e52",
+    "name": "粉黛",
+    "desc": "長毛款+流蘇",
+    "category": "hat",
+    "subcategory": "cat",
+    "price": 1100,
+    "sizes": "",
+    "stock": 0,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:11:27.429Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540287450-88abaa95.jpg",
+    "imageFile": "1795540287450-88abaa95.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540289049-2459192e.jpg",
+    "imageFile2": "1795540289049-2459192e.jpg"
   }
 ]
