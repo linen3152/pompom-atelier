@@ -1935,5 +1935,23 @@
     "imageFile": "1795541432956-cfcc9ece.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541434425-f1e79e76.jpg",
     "imageFile2": "1795541434425-f1e79e76.jpg"
+  },
+  {
+    "id": "1795541518901-37418d3e",
+    "name": "海風",
+    "desc": "波浪款+流蘇",
+    "category": "hat",
+    "subcategory": "rabbit",
+    "price": 1400,
+    "sizes": "",
+    "stock": 0,
+    "note": "🌟24",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:31:58.901Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541518919-7de91886.jpg",
+    "imageFile": "1795541518919-7de91886.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541520384-517a47ad.jpg",
+    "imageFile2": "1795541520384-517a47ad.jpg"
   }
 ]
