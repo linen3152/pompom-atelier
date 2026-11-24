@@ -1572,25 +1572,6 @@
     "updated_at": "2026-11-19T09:37:26.992Z"
   },
   {
-    "id": "1794935090791-9ae1d8b4",
-    "name": "墨璃",
-    "desc": "波浪款+毛球",
-    "category": "hat",
-    "subcategory": "fox",
-    "price": 1500,
-    "sizes": "小兜帽帽型",
-    "stock": 0,
-    "note": "🌟13",
-    "newUntil": "2026-11-26T09:37:35.647Z",
-    "created_at": "2026-11-17T17:04:50.791Z",
-    "salePrice": null,
-    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935090813-1b3bd72b.jpg",
-    "imageFile": "1794935090813-1b3bd72b.jpg",
-    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935092375-cf941f19.jpg",
-    "imageFile2": "1794935092375-cf941f19.jpg",
-    "updated_at": "2026-11-21T09:00:43.017Z"
-  },
-  {
     "id": "1794935169436-fbf75300",
     "name": "夜燦",
     "desc": "長毛款+辮子",
