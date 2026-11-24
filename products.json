@@ -1880,5 +1880,23 @@
     "imageFile": "1795540966335-343691ff.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795540968244-75a10d1e.jpg",
     "imageFile2": "1795540968244-75a10d1e.jpg"
+  },
+  {
+    "id": "1795541054535-1d383d7b",
+    "name": "幻",
+    "desc": "長毛款+辮子",
+    "category": "hat",
+    "subcategory": "fox",
+    "price": 1700,
+    "sizes": "",
+    "stock": 0,
+    "note": "🌟21",
+    "newUntil": null,
+    "created_at": "2026-11-24T17:24:14.535Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541054554-36ee8758.jpg",
+    "imageFile": "1795541054554-36ee8758.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541056328-610e0afe.jpg",
+    "imageFile2": "1795541056328-610e0afe.jpg"
   }
 ]
