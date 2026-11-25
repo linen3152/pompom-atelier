@@ -2020,5 +2020,23 @@
     "imageFile": "1795596422752-b18e3f30.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795596424812-f400ec7d.jpg",
     "imageFile2": "1795596424812-f400ec7d.jpg"
+  },
+  {
+    "id": "1795626465338-ba8aa5b7",
+    "name": "喵兜福袋",
+    "desc": "* 手作帽子 1 頂\n* 聖誕限定吊飾 1 個\n* 隨機小物 2 件\n* 飛機盒＋紙袋包裝\n\n帽款將從現有款式與配色中隨機挑選，照片展示不同帽款的可能樣式，實際出貨款式與顏色依庫存隨機安排。",
+    "category": "misc",
+    "subcategory": "",
+    "price": 999,
+    "sizes": "喵兜福袋與帽の收藏家福袋，也可以在訂單備註填寫頭圍（公分），方便我們挑選合適的尺寸。",
+    "stock": 1,
+    "note": "",
+    "newUntil": null,
+    "created_at": "2026-11-25T17:07:45.338Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795626465368-ae2f23d7.jpg",
+    "imageFile": "1795626465368-ae2f23d7.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795626467169-fbcd3727.jpg",
+    "imageFile2": "1795626467169-fbcd3727.jpg"
   }
 ]
