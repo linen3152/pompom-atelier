@@ -2002,5 +2002,23 @@
     "imageFile": "1795596263595-ce3ec2ed.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795596265155-6e5e20c4.jpg",
     "imageFile2": "1795596265155-6e5e20c4.jpg"
+  },
+  {
+    "id": "1795596422731-76c9e0db",
+    "name": "毛茸茸",
+    "desc": "藍白段染",
+    "category": "scarf",
+    "subcategory": "",
+    "price": 1000,
+    "sizes": "寬15公分/長90公分，重量約350克，一般款的兩倍。",
+    "stock": 1,
+    "note": "圍巾 藍混線",
+    "newUntil": "2026-12-02T08:47:02.732Z",
+    "created_at": "2026-11-25T08:47:02.732Z",
+    "salePrice": null,
+    "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795596422752-b18e3f30.jpg",
+    "imageFile": "1795596422752-b18e3f30.jpg",
+    "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795596424812-f400ec7d.jpg",
+    "imageFile2": "1795596424812-f400ec7d.jpg"
   }
 ]
