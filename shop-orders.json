@@ -28,10 +28,10 @@
     "shipping": 38,
     "total": 1038,
     "payment": "cod",
-    "status": "exported",
+    "status": "shipped",
     "note": "",
     "created_at": "2026-11-15T04:23:28.479Z",
-    "updated_at": "2026-11-17T16:45:30.709Z"
+    "updated_at": "2026-11-25T13:22:15.809Z"
   },
   {
     "id": "1795087164034-60f40706",
