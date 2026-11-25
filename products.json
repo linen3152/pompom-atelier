@@ -2029,7 +2029,7 @@
     "subcategory": "",
     "price": 999,
     "sizes": "喵兜福袋與帽の收藏家福袋，也可以在訂單備註填寫頭圍（公分），方便我們挑選合適的尺寸。",
-    "stock": 1,
+    "stock": 0,
     "note": "",
     "newUntil": null,
     "created_at": "2026-11-25T17:07:45.338Z",
@@ -2037,6 +2037,7 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795626465368-ae2f23d7.jpg",
     "imageFile": "1795626465368-ae2f23d7.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795626467169-fbcd3727.jpg",
-    "imageFile2": "1795626467169-fbcd3727.jpg"
+    "imageFile2": "1795626467169-fbcd3727.jpg",
+    "updated_at": "2026-11-25T17:09:04.841Z"
   }
 ]
