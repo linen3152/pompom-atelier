@@ -1920,7 +1920,7 @@
     "category": "hat",
     "subcategory": "rabbit",
     "price": 1400,
-    "sizes": "",
+    "sizes": "頭圍60cm/帽深17cm",
     "stock": 0,
     "note": "🌟 22",
     "newUntil": null,
@@ -1929,7 +1929,8 @@
     "image": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541173794-4c22f131.jpg",
     "imageFile": "1795541173794-4c22f131.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541175308-91209b84.jpg",
-    "imageFile2": "1795541175308-91209b84.jpg"
+    "imageFile2": "1795541175308-91209b84.jpg",
+    "updated_at": "2026-11-26T07:22:25.906Z"
   },
   {
     "id": "1795541432926-dd2c8553",
