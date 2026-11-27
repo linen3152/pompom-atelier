@@ -1579,7 +1579,7 @@
     "subcategory": "rabbit",
     "price": 1600,
     "sizes": "小兜帽帽型",
-    "stock": 1,
+    "stock": 0,
     "note": "🌟18",
     "newUntil": "2026-11-26T09:38:19.987Z",
     "created_at": "2026-11-17T17:18:12.697Z",
@@ -1588,7 +1588,7 @@
     "imageFile": "1794935892713-1d818b3e.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935894191-b9bfc8da.jpg",
     "imageFile2": "1794935894191-b9bfc8da.jpg",
-    "updated_at": "2026-11-19T09:38:20.178Z"
+    "updated_at": "2026-11-27T08:27:23.228Z"
   },
   {
     "id": "1794935956274-7addc501",
