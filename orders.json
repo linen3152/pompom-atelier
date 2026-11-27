@@ -380,5 +380,31 @@
     "note": "現金",
     "status": "new",
     "created_at": "2026-11-27T08:41:46.357Z"
+  },
+  {
+    "id": "1795768996019-d152a000",
+    "contact": {
+      "platform": "line",
+      "handle": "JING LINGᴾᴬᴺ",
+      "phone": ""
+    },
+    "items": {
+      "hat": [
+        {
+          "style": "貓耳帽",
+          "brim": "波浪",
+          "strap": "辮子款",
+          "strapEnd": "無",
+          "tone": "淺色系",
+          "color": "白",
+          "headSize": "56",
+          "depth": "17"
+        }
+      ]
+    },
+    "depositLast5": "00000",
+    "note": "",
+    "status": "new",
+    "created_at": "2026-11-27T08:43:16.019Z"
   }
 ]
