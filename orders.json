@@ -354,5 +354,31 @@
     "note": "想用小小兵配色，如果可以希望在12/6之前收到～",
     "status": "new",
     "created_at": "2026-11-27T07:44:42.954Z"
+  },
+  {
+    "id": "1795768906357-ce660e49",
+    "contact": {
+      "platform": "line",
+      "handle": "柔柔",
+      "phone": ""
+    },
+    "items": {
+      "hat": [
+        {
+          "style": "小兜帽",
+          "brim": "平款",
+          "strap": "辮子款",
+          "strapEnd": "毛球",
+          "tone": "淺色系",
+          "color": "棕",
+          "headSize": "1",
+          "depth": "1"
+        }
+      ]
+    },
+    "depositLast5": "00000",
+    "note": "現金",
+    "status": "new",
+    "created_at": "2026-11-27T08:41:46.357Z"
   }
 ]
