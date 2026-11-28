@@ -1503,7 +1503,7 @@
     "subcategory": "fox",
     "price": 1500,
     "sizes": "小兜帽帽型",
-    "stock": 1,
+    "stock": 0,
     "note": "🌟12",
     "newUntil": "2026-11-26T09:37:26.796Z",
     "created_at": "2026-11-17T17:03:14.310Z",
@@ -1512,7 +1512,7 @@
     "imageFile": "1794934994339-de3196db.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794934996074-e57317d1.jpg",
     "imageFile2": "1794934996074-e57317d1.jpg",
-    "updated_at": "2026-11-19T09:37:26.992Z"
+    "updated_at": "2026-11-28T06:57:16.022Z"
   },
   {
     "id": "1794935169436-fbf75300",
