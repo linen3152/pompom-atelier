@@ -406,5 +406,31 @@
     "note": "",
     "status": "new",
     "created_at": "2026-11-27T08:43:16.019Z"
+  },
+  {
+    "id": "1795846752313-93771da6",
+    "contact": {
+      "platform": "line",
+      "handle": "洋.",
+      "phone": ""
+    },
+    "items": {
+      "hat": [
+        {
+          "style": "小羊帽（大兜帽）",
+          "brim": "平款",
+          "strap": "辮子款",
+          "strapEnd": "毛球",
+          "tone": "淺色系",
+          "color": "灰",
+          "headSize": "常規",
+          "depth": "常規"
+        }
+      ]
+    },
+    "depositLast5": "50516",
+    "note": "",
+    "status": "new",
+    "created_at": "2026-11-28T06:19:12.313Z"
   }
 ]
