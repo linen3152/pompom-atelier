@@ -1560,7 +1560,7 @@
     "subcategory": "sheep",
     "price": 1300,
     "sizes": "小兜帽帽型",
-    "stock": 1,
+    "stock": 0,
     "note": "🌟20",
     "newUntil": "2026-11-26T09:38:49.734Z",
     "created_at": "2026-11-17T17:16:49.676Z",
@@ -1569,7 +1569,7 @@
     "imageFile": "1794935809695-3f6d5541.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1794935811330-b8faac64.jpg",
     "imageFile2": "1794935811330-b8faac64.jpg",
-    "updated_at": "2026-11-19T09:38:49.937Z"
+    "updated_at": "2026-11-28T11:45:45.053Z"
   },
   {
     "id": "1794935892697-f4e907f3",
