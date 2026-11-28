@@ -1940,7 +1940,7 @@
     "subcategory": "rabbit",
     "price": 1500,
     "sizes": "頭圍61cm/帽深20cm",
-    "stock": 1,
+    "stock": 0,
     "note": "🌟 23",
     "newUntil": "2026-12-03T09:54:34.105Z",
     "created_at": "2026-11-24T17:30:32.926Z",
@@ -1949,7 +1949,7 @@
     "imageFile": "1795541432956-cfcc9ece.jpg",
     "image2": "https://raw.githubusercontent.com/linen3152/pompom-atelier/main/images/1795541434425-f1e79e76.jpg",
     "imageFile2": "1795541434425-f1e79e76.jpg",
-    "updated_at": "2026-11-26T09:54:34.359Z"
+    "updated_at": "2026-11-28T11:44:26.260Z"
   },
   {
     "id": "1795541518901-37418d3e",
